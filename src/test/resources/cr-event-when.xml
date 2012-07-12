@@ -1,0 +1,4362 @@
+<?xml version="1.0"?>
+<events>
+	<event id="6810146">
+		<when>Tue., July 10, 9:30 p.m.</when>
+	</event>
+	<event id="6810553">
+		<when>Tue., July 10, 8 p.m.</when>
+	</event>
+	<event id="6812387">
+		<when>Fri., July 6, 4:30 p.m.</when>
+	</event>
+	<event id="6812395">
+		<when>Fri., July 6, 3 p.m.</when>
+	</event>
+	<event id="861629">
+		<when>Fridays, 11 p.m.</when>
+	</event>
+	<event id="6460353">
+		<when>Thu., July 12, 7 p.m.</when>
+	</event>
+	<event id="6811480">
+		<when>Wed., July 11, 10 p.m.</when>
+	</event>
+	<event id="6131219">
+		<when>Sat., July 14, 8 p.m.</when>
+	</event>
+	<event id="6029314">
+		<when>Fri., July 13, 8 p.m.</when>
+	</event>
+	<event id="6802288">
+		<when>Sat., July 14, 7 p.m.</when>
+	</event>
+	<event id="6812391">
+		<when>Wed., July 11, 10 p.m.</when>
+	</event>
+	<event id="6879877">
+		<when>Sat., July 14, 9 p.m.</when>
+	</event>
+	<event id="6752292">
+		<when>Sat., July 14, 7 p.m.</when>
+	</event>
+	<event id="6879526">
+		<when>Thu., July 12, 7 p.m.</when>
+	</event>
+	<event id="6460051">
+		<when>Fri., July 13, 8 p.m.</when>
+	</event>
+	<event id="6786565">
+		<when>July 7-14</when>
+	</event>
+	<event id="6367388">
+		<when>Thu., July 12, 7:30 p.m.</when>
+	</event>
+	<event id="6878558">
+		<when>Sat., July 14, 7 p.m.</when>
+	</event>
+	<event id="6810497">
+		<when>Wed., July 11, 10 p.m.</when>
+	</event>
+	<event id="6565355">
+		<when>Fri., July 13, 8 p.m.</when>
+	</event>
+	<event id="6878563">
+		<when>Through 7/14: Fri-Sat 9:30 PM</when>
+	</event>
+	<event id="6623704">
+		<when>Thu., July 12, 7:30 p.m.</when>
+	</event>
+	<event id="6887146">
+		<when>Sat., July 14, 7:30 p.m.</when>
+	</event>
+	<event id="6878882">
+		<when>Fri., July 13, 8 p.m.</when>
+	</event>
+	<event id="6786694">
+		<when>7:15 PM</when>
+	</event>
+	<event id="6267465">
+		<when>Thu., July 12, 8 p.m.</when>
+	</event>
+	<event id="6861330">
+		<when>Sat., July 14, 8 p.m.</when>
+	</event>
+	<event id="5724269">
+		<when>Fri., July 13, 8:30 p.m.</when>
+	</event>
+	<event id="6890154">
+		<when>Sat., July 14</when>
+	</event>
+	<event id="6879925">
+		<when>Thu., July 12, 12 p.m.</when>
+	</event>
+	<event id="6879560">
+		<when>Thu., July 12, 8 p.m.</when>
+	</event>
+	<event id="6565356">
+		<when>Sat., July 14, 8 p.m.</when>
+	</event>
+	<event id="6878874">
+		<when>Fri., July 13, 8:30 p.m.</when>
+	</event>
+	<event id="6889727">
+		<when>Sat., July 14, 11 a.m.</when>
+	</event>
+	<event id="6888103">
+		<when>Thu., July 12, 5-9 p.m.</when>
+	</event>
+	<event id="6879222">
+		<when>Thu., July 12, 8:30 p.m.</when>
+	</event>
+	<event id="6130908">
+		<when>Thu., July 12, 6 p.m.</when>
+	</event>
+	<event id="6879527">
+		<when>Fri., July 13, 9 p.m.</when>
+	</event>
+	<event id="6880200">
+		<when>Sat., July 14, 12 p.m.</when>
+	</event>
+	<event id="6878585">
+		<when>Thu., July 12, 5:30 p.m.</when>
+	</event>
+	<event id="859372">
+		<when>Fridays, 9 p.m.</when>
+	</event>
+	<event id="6029315">
+		<when>Sat., July 14, 8 p.m.</when>
+	</event>
+	<event id="6878862">
+		<when>Thu., July 12, 9 p.m.</when>
+	</event>
+	<event id="6879199">
+		<when>Fri., July 13, 9 p.m.</when>
+	</event>
+	<event id="6269137">
+		<when>Sat., July 14, 8:30 p.m.</when>
+	</event>
+	<event id="6880222">
+		<when>Thu., July 12, 7:30 p.m.</when>
+	</event>
+	<event id="6880003">
+		<when>Sat., July 14, 12 p.m.</when>
+	</event>
+	<event id="6879555">
+		<when>Fri., July 13, 9 p.m.</when>
+	</event>
+	<event id="6369071">
+		<when>Thu., July 12, 8:30 p.m.</when>
+	</event>
+	<event id="5980385">
+		<when>Thu., July 12, 9 p.m.</when>
+	</event>
+	<event id="6879888">
+		<when>Sat., July 14, 12:15 p.m.</when>
+	</event>
+	<event id="6878883">
+		<when>Sat., July 14, 9 p.m.</when>
+	</event>
+	<event id="6879564">
+		<when>Fri., July 13, 9 p.m.</when>
+	</event>
+	<event id="6878907">
+		<when>Sat., July 14, 9 p.m.</when>
+	</event>
+	<event id="6879899">
+		<when>Sat., July 14, 1 p.m.</when>
+	</event>
+	<event id="6888072">
+		<when>Thu., July 12, 8:30 p.m.</when>
+	</event>
+	<event id="6079940">
+		<when>Tue., July 10, 7:30 p.m.</when>
+	</event>
+	<event id="6810199">
+		<when>Tue., July 10, 9:30 p.m.</when>
+	</event>
+	<event id="6811913">
+		<when>Tue., July 10, 5:30 p.m.</when>
+	</event>
+	<event id="6819385">
+		<when>Tue., July 10, 5:45 p.m.</when>
+	</event>
+	<event id="6809767">
+		<when>Tue., July 10, 7 p.m.</when>
+	</event>
+	<event id="6370471">
+		<when>Tue., July 10, 7 p.m.</when>
+	</event>
+	<event id="6370409">
+		<when>Tue., July 10, 7:30 p.m.</when>
+	</event>
+	<event id="6819216">
+		<when>Tue., July 10, 7:30 p.m.</when>
+	</event>
+	<event id="6811017">
+		<when>Tue., July 10, 8 p.m.</when>
+	</event>
+	<event id="5924644">
+		<when>Tue., July 10, 8 p.m.</when>
+	</event>
+	<event id="6079956">
+		<when>Tue., July 10, 8 p.m.</when>
+	</event>
+	<event id="6466716">
+		<when>Tue., July 10, 8 p.m.</when>
+	</event>
+	<event id="6810191">
+		<when>Tue., July 10, 8 p.m.</when>
+	</event>
+	<event id="6864069">
+		<when>July 11-12</when>
+	</event>
+	<event id="6743195">
+		<when>Thu., July 12, 7 p.m.</when>
+	</event>
+	<event id="6701283">
+		<when>Wed., July 11, 6 p.m.</when>
+	</event>
+	<event id="6470831">
+		<when>Wed., July 11, 7 p.m.</when>
+	</event>
+	<event id="6743192">
+		<when>Wed., July 11, 7 p.m.</when>
+	</event>
+	<event id="6471246">
+		<when>Wed., July 11, 7 p.m.</when>
+	</event>
+	<event id="6861034">
+		<when>Wed., July 11, 7 p.m.</when>
+	</event>
+	<event id="6743198">
+		<when>Thu., July 12, 7 p.m.</when>
+	</event>
+	<event id="6811018">
+		<when>Wed., July 11, 7 p.m.</when>
+	</event>
+	<event id="6751394">
+		<when>Thu., July 12, 7 p.m.</when>
+	</event>
+	<event id="6751376">
+		<when>Wed., July 11, 7:30 p.m.</when>
+	</event>
+	<event id="5980384">
+		<when>Wed., July 11, 8 p.m.</when>
+	</event>
+	<event id="6029313">
+		<when>Wed., July 11, 8 p.m.</when>
+	</event>
+	<event id="6809801">
+		<when>Wed., July 11, 8 p.m.</when>
+	</event>
+	<event id="6810175">
+		<when>Wed., July 11, 8 p.m.</when>
+	</event>
+	<event id="6819573">
+		<when>Wed., July 11, 8:30 p.m.</when>
+	</event>
+	<event id="6811245">
+		<when>Wed., July 11, 9 p.m.</when>
+	</event>
+	<event id="6793087">
+		<when>Wed., July 11, 9 p.m.</when>
+	</event>
+	<event id="6811528">
+		<when>Wed., July 11, 9:30 p.m.</when>
+	</event>
+	<event id="6783437">
+		<when>Through 7/20:</when>
+	</event>
+	<event id="6879926">
+		<when>Fri., July 13, 12 p.m.</when>
+	</event>
+	<event id="6879885">
+		<when>Fri., July 13, 5 p.m.</when>
+	</event>
+	<event id="6880198">
+		<when>Fri., July 13, 6 p.m.</when>
+	</event>
+	<event id="6879554">
+		<when>Thu., July 12, 9 p.m.</when>
+	</event>
+	<event id="6878879">
+		<when>Thu., July 12, 9 p.m.</when>
+	</event>
+	<event id="6792615">
+		<when>Tue., Oct. 2, 8 p.m.</when>
+	</event>
+	<event id="6793026">
+		<when>Wed., Oct. 3, 9 p.m.</when>
+	</event>
+	<event id="6621356">
+		<when>Wed., Oct. 3, 9 p.m.</when>
+	</event>
+	<event id="6183740">
+		<when>Oct. 2-3, 8 p.m.</when>
+	</event>
+	<event id="6880499">
+		<when>Thu., July 12, 9 p.m.</when>
+	</event>
+	<event id="6879603">
+		<when>Thu., July 12, 9:30 p.m.</when>
+	</event>
+	<event id="6733311">
+		<when>Fri., Sept. 21, 8 p.m.</when>
+	</event>
+	<event id="6878912">
+		<when>Thu., July 12, 9:30 p.m.</when>
+	</event>
+	<event id="6879206">
+		<when>Thu., July 12, 10 p.m.</when>
+	</event>
+	<event id="6620876">
+		<when>Fri., Sept. 21, 9 p.m.</when>
+	</event>
+	<event id="6621180">
+		<when>Fri., Sept. 21, 9 p.m.</when>
+	</event>
+	<event id="6621996">
+		<when>Sept. 20-21, 8 p.m.</when>
+	</event>
+	<event id="6620565">
+		<when>Sat., Sept. 22, 7 p.m.</when>
+	</event>
+	<event id="6793975">
+		<when>Through 9/22: fourth Sat of the month, 5:30-8:30 PM</when>
+	</event>
+	<event id="6639082">
+		<when>Through 9/22:</when>
+	</event>
+	<event id="6879208">
+		<when>Fri., July 13, 10 p.m.</when>
+	</event>
+	<event id="6879601">
+		<when>Fri., July 13, 10 p.m.</when>
+	</event>
+	<event id="6795384">
+		<when>Fri., July 13, 10:30 p.m.</when>
+	</event>
+	<event id="6792619">
+		<when>Fri., July 13, 11 p.m.</when>
+	</event>
+	<event id="6890157">
+		<when>Sat., July 14, 12 p.m.</when>
+	</event>
+	<event id="6184644">
+		<when>Mon., Sept. 24, 8 p.m.</when>
+	</event>
+	<event id="6733314">
+		<when>Mon., Sept. 24, 8 p.m.</when>
+	</event>
+	<event id="6622105">
+		<when>Mon., Sept. 24, 10 p.m.</when>
+	</event>
+	<event id="6468156">
+		<when>Through 9/24: the last Mon of every month, 8:30 PM</when>
+	</event>
+	<event id="6082292">
+		<when>Tue., Sept. 25, 7:30 p.m.</when>
+	</event>
+	<event id="6620877">
+		<when>Tue., Sept. 25, 7:30 p.m.</when>
+	</event>
+	<event id="6622248">
+		<when>Tue., Sept. 25, 8 p.m.</when>
+	</event>
+	<event id="6792606">
+		<when>Tue., Sept. 25, 8 p.m.</when>
+	</event>
+	<event id="6674507">
+		<when>Wed., Sept. 26, 7:30 p.m.</when>
+	</event>
+	<event id="6878541">
+		<when>Sat., July 14, 2 p.m.</when>
+	</event>
+	<event id="6366434">
+		<when>Wed., Sept. 26, 7:30 p.m.</when>
+	</event>
+	<event id="6564734">
+		<when>Wed., Sept. 26, 9 p.m.</when>
+	</event>
+	<event id="6887153">
+		<when>Sat., July 14, 3-5 p.m.</when>
+	</event>
+	<event id="6879556">
+		<when>Sat., July 14, 6 p.m.</when>
+	</event>
+	<event id="6216906">
+		<when>7/25-9/26: Wed 9 AM-2 PM</when>
+	</event>
+	<event id="6879224">
+		<when>Sat., July 14, 6 p.m.</when>
+	</event>
+	<event id="6267418">
+		<when>Sat., July 14, 7 p.m.</when>
+	</event>
+	<event id="6564719">
+		<when>Thu., Sept. 27, 8 p.m.</when>
+	</event>
+	<event id="6621353">
+		<when>Thu., Sept. 27, 9 p.m.</when>
+	</event>
+	<event id="6620837">
+		<when>Sept. 26-27, 8 p.m.</when>
+	</event>
+	<event id="6214021">
+		<when>7/10-9/28: Tue-Fri 1-5:30 PM</when>
+	</event>
+	<event id="6878915">
+		<when>Sat., July 14, 9 p.m.</when>
+	</event>
+	<event id="6879541">
+		<when>Sat., July 14, 9 p.m.</when>
+	</event>
+	<event id="6879356">
+		<when>Fri., July 13, 9 p.m. and Sat., July 14, 8 p.m.</when>
+	</event>
+	<event id="6621268">
+		<when>Sat., July 14, 9 p.m.</when>
+	</event>
+	<event id="6879598">
+		<when>Sat., July 14, 9:30 p.m.</when>
+	</event>
+	<event id="6852144">
+		<when>Sat., July 14, 9:30 p.m.</when>
+	</event>
+	<event id="6879559">
+		<when>Sat., July 14, 10 p.m.</when>
+	</event>
+	<event id="6879210">
+		<when>Sat., July 14, 10 p.m.</when>
+	</event>
+	<event id="6793079">
+		<when>Sat., July 14, 10 p.m.</when>
+	</event>
+	<event id="6726456">
+		<when>Sat., Oct. 13, 7 p.m.</when>
+	</event>
+	<event id="5098777">
+		<when>Sat., Oct. 13, 8 p.m.</when>
+	</event>
+	<event id="6879565">
+		<when>Sat., July 14, 10 p.m.</when>
+	</event>
+	<event id="6622381">
+		<when>Sat., Oct. 13, 8 p.m.</when>
+	</event>
+	<event id="6620881">
+		<when>Sat., Oct. 13, 8:30 p.m.</when>
+	</event>
+	<event id="6621307">
+		<when>Sat., Oct. 13, 9 p.m.</when>
+	</event>
+	<event id="6879252">
+		<when>Sat., July 14, 10 p.m.</when>
+	</event>
+	<event id="6216391">
+		<when>6/9-10/13: Sat 8 AM-1 PM</when>
+	</event>
+	<event id="6879602">
+		<when>Sat., July 14, 10 p.m.</when>
+	</event>
+	<event id="6879248">
+		<when>Sat., July 14, 10:15 p.m.</when>
+	</event>
+	<event id="6217260">
+		<when>6/30-10/13: Sat 8 AM-1:30 PM</when>
+	</event>
+	<event id="6214168">
+		<when>through 9/30: Mon 3 -7 PM, then through 10/15: Sun 2:30-6:30 PM</when>
+	</event>
+	<event id="6733360">
+		<when>Wed., Oct. 17, 9 p.m.</when>
+	</event>
+	<event id="6367689">
+		<when>Sat., July 14, 10:30 p.m.</when>
+	</event>
+	<event id="6733317">
+		<when>Sat., July 14, 11 p.m.</when>
+	</event>
+	<event id="6466647">
+		<when>7/13-7/14, Fri-Sat</when>
+	</event>
+	<event id="6216519">
+		<when>through 9/5: Sat 3-8 PM, through 10/17: Sat 3-7 PM</when>
+	</event>
+	<event id="6621983">
+		<when>Sept. 16-17, 8 p.m. and Oct. 16-17, 8 p.m.</when>
+	</event>
+	<event id="6217024">
+		<when>5/24-10/18: Thu 7 AM-3 PM</when>
+	</event>
+	<event id="6792338">
+		<when>Fri., Oct. 19, 8 p.m.</when>
+	</event>
+	<event id="6215458">
+		<when>4/18-10/24: Wed 1 PM-4 PM</when>
+	</event>
+	<event id="6724554">
+		<when>Thu., Oct. 25, 8 p.m.</when>
+	</event>
+	<event id="6666156">
+		<when>Through 7/14: Thu-Sat 8 PM, Sun 7 PM, also 7/11, 8 PM</when>
+	</event>
+	<event id="6792838">
+		<when>Thu., Oct. 25, 9 p.m.</when>
+	</event>
+	<event id="6215352">
+		<when>6/28-10/25: Thu 1 PM-7 PM</when>
+	</event>
+	<event id="6214934">
+		<when>5/7-10/25: Thu 7 AM-1 PM</when>
+	</event>
+	<event id="6809780">
+		<when>Through 7/14: Thu-Fri 7:30 PM, Sat 5 and 8 PM</when>
+	</event>
+	<event id="6216539">
+		<when>6/21-10/25: Thu 7:30 AM-12:30 PM</when>
+	</event>
+	<event id="6217035">
+		<when>6/14-10/25: Thu 7 AM-3 PM</when>
+	</event>
+	<event id="6622416">
+		<when>Oct. 24-25, 8 p.m.</when>
+	</event>
+	<event id="5826250">
+		<when>Fri., Oct. 26, 9:30 p.m.</when>
+	</event>
+	<event id="6890140">
+		<when>July 13-14</when>
+	</event>
+	<event id="6531936">
+		<when>Through 7/14:</when>
+	</event>
+	<event id="6792588">
+		<when>Dusk</when>
+	</event>
+	<event id="6724557">
+		<when>Sat., Oct. 27, 8 p.m.</when>
+	</event>
+	<event id="6622422">
+		<when>Sat., Oct. 27, 8 p.m.</when>
+	</event>
+	<event id="5677629">
+		<when>Sun., July 8, 7:30 p.m.</when>
+	</event>
+	<event id="6851276">
+		<when>Sun., July 8, 7:30 p.m.</when>
+	</event>
+	<event id="6215592">
+		<when>5/12-10/27: Sat 9 AM-2 PM</when>
+	</event>
+	<event id="6810186">
+		<when>Sun., July 8, 8 p.m.</when>
+	</event>
+	<event id="6216526">
+		<when>6/16-10/27: Sat 8 AM-1 PM</when>
+	</event>
+	<event id="6214271">
+		<when>5/12-10/27: Sat 7 AM-1 PM</when>
+	</event>
+	<event id="6215674">
+		<when>5/19-10/20: Sat 8 AM-3 PM</when>
+	</event>
+	<event id="6810551">
+		<when>Sun., July 8, 8 p.m.</when>
+	</event>
+	<event id="6810532">
+		<when>Sun., July 8, 8 p.m.</when>
+	</event>
+	<event id="6622391">
+		<when>Oct. 19-20, 8 p.m.</when>
+	</event>
+	<event id="6852666">
+		<when>Sun., July 8, 9 p.m.</when>
+	</event>
+	<event id="6183741">
+		<when>Sun., Oct. 21, 7 p.m.</when>
+	</event>
+	<event id="6623692">
+		<when>Sun., July 8, 9:30 p.m.</when>
+	</event>
+	<event id="6270169">
+		<when>Sun., Oct. 21, 7 p.m.</when>
+	</event>
+	<event id="6851543">
+		<when>Sun., Oct. 21, 9 p.m.</when>
+	</event>
+	<event id="5799905">
+		<when>Through 10/21:</when>
+	</event>
+	<event id="6216547">
+		<when>6/24-10/21: Sun 10 AM-2 PM</when>
+	</event>
+	<event id="6811525">
+		<when>Sun., July 8, 9:30 p.m.</when>
+	</event>
+	<event id="6812381">
+		<when>Sun., July 8, 9:30 p.m.</when>
+	</event>
+	<event id="6168444">
+		<when>Through 10/21:</when>
+	</event>
+	<event id="6819589">
+		<when>Sun., July 8, 10 p.m.</when>
+	</event>
+	<event id="6214457">
+		<when>5/2-10/23: Tue 7 AM-1 PM</when>
+	</event>
+	<event id="6214581">
+		<when>6/5-10/23: Tue 7 AM-3 PM</when>
+	</event>
+	<event id="6622410">
+		<when>Oct. 22-23, 8 p.m.</when>
+	</event>
+	<event id="6812389">
+		<when>Sun., July 8, 10 p.m.</when>
+	</event>
+	<event id="6793009">
+		<when>Wed., Oct. 24, 9 p.m.</when>
+	</event>
+	<event id="6215100">
+		<when>6/20-10/24: Wed 1 PM-7 PM</when>
+	</event>
+	<event id="6214291">
+		<when>5/12-10/27: Sat 7 AM-1 PM</when>
+	</event>
+	<event id="6215375">
+		<when>6/30-10/27: Sat 10 AM-4 PM</when>
+	</event>
+	<event id="6811898">
+		<when>Sun., July 8, 10 p.m.</when>
+	</event>
+	<event id="6723052">
+		<when>Through 7/8: Thu-Sat 8 PM, Sun 7 PM</when>
+	</event>
+	<event id="6215094">
+		<when>6/16-10/27: Sat 7 AM-1 PM</when>
+	</event>
+	<event id="6508343">
+		<when>Through 7/8: Fri-Sat, 8 PM, Sun 3 PM,</when>
+	</event>
+	<event id="6217274">
+		<when>5/19-10/27: Sat 7 AM-1 PM</when>
+	</event>
+	<event id="6214995">
+		<when>6/9-10/27: Sat 7 AM-1 PM</when>
+	</event>
+	<event id="6214362">
+		<when>5/13-10/28: Sun 7 AM-1 PM</when>
+	</event>
+	<event id="6532323">
+		<when>Through 7/8:</when>
+	</event>
+	<event id="6216047">
+		<when>6/3-10/28: Sun 9 AM-3 PM</when>
+	</event>
+	<event id="6215233">
+		<when>6/24-10/28: Sun 2 PM-6 PM</when>
+	</event>
+	<event id="6216447">
+		<when>6/10-10/28: Sun 9 AM-1 PM</when>
+	</event>
+	<event id="6216469">
+		<when>6/10-10/28: Sun 9 AM-1 PM</when>
+	</event>
+	<event id="5439887">
+		<when>Through 10/28:</when>
+	</event>
+	<event id="5439867">
+		<when>Through 7/8:</when>
+	</event>
+	<event id="6216282">
+		<when>6/3-10/28: Sun 10 AM-3 PM</when>
+	</event>
+	<event id="6216132">
+		<when>6/3-10/28: Sun 9 AM-3 PM</when>
+	</event>
+	<event id="6214401">
+		<when>6/3-10/28: Sun 8 AM-2 PM</when>
+	</event>
+	<event id="6215239">
+		<when>6/26-10/30: Tue 1 PM-7 PM</when>
+	</event>
+	<event id="6460293">
+		<when>Through 7/8:</when>
+	</event>
+	<event id="5478760">
+		<when>Through 7/8:</when>
+	</event>
+	<event id="6216991">
+		<when>5/29-10/30: Tue 7 AM-3 PM</when>
+	</event>
+	<event id="6263951">
+		<when>Through 10/31:</when>
+	</event>
+	<event id="6215487">
+		<when>5/5-10/31: Wed and Sat 7 AM-1 PM</when>
+	</event>
+	<event id="6215405">
+		<when>6/11-10/31: Wed 7 AM-noon</when>
+	</event>
+	<event id="5987067">
+		<when>Through 7/8:</when>
+	</event>
+	<event id="6214866">
+		<when>6/6-10/31: Wed 7 AM-1 PM</when>
+	</event>
+	<event id="6216376">
+		<when>6/6-10/31 Wed: 4 PM-8 PM</when>
+	</event>
+	<event id="6784376">
+		<when>Wed 7/4, noon-10 PM; Thu-Fri 3-10 PM; and Sat-Sun 7/7-7/8, noon-10 PM</when>
+	</event>
+	<event id="5723464">
+		<when>Fri., Nov. 2, 8 p.m.</when>
+	</event>
+	<event id="5340022">
+		<when>Sat., Nov. 3, 7:30 p.m.</when>
+	</event>
+	<event id="6612815">
+		<when>Through 7/8:</when>
+	</event>
+	<event id="6851301">
+		<when>Sat., Nov. 3, 8 p.m.</when>
+	</event>
+	<event id="6367297">
+		<when>Sat., Nov. 3, 10 p.m.</when>
+	</event>
+	<event id="6612811">
+		<when>Through 7/8:</when>
+	</event>
+	<event id="6217205">
+		<when>5/5-11/3: Sat 7:30 AM-1 PM</when>
+	</event>
+	<event id="6734344">
+		<when>Through 7/8:</when>
+	</event>
+	<event id="6562449">
+		<when>Thu., Nov. 8, 9 p.m.</when>
+	</event>
+	<event id="6622429">
+		<when>Nov. 7-8, 8 p.m.</when>
+	</event>
+	<event id="6850563">
+		<when>Through TK</when>
+	</event>
+	<event id="6464480">
+		<when>7/6-7/8, Fri-Sat 10 AM-6 PM, Sun 10 AM-5 PM</when>
+	</event>
+	<event id="6622438">
+		<when>Nov. 9-10, 8 p.m.</when>
+	</event>
+	<event id="6079625">
+		<when>Through 7/8: Thu-Fri 7:30 PM, Sat 4 and 8 PM, Sun 4 PM,</when>
+	</event>
+	<event id="6465961">
+		<when>7/7-7/8, Sat-Sun noon-10:30 PM</when>
+	</event>
+	<event id="6809758">
+		<when>Through 7/9: Thu 7:30 PM, Fri 8 and 10:15 PM, Sat 7 and 9:15 PM, Sun 7 PM</when>
+	</event>
+	<event id="6269021">
+		<when>7/7-7/8, Sat-Sun noon-10 PM</when>
+	</event>
+	<event id="6810594">
+		<when>Fri., July 6, 8 &amp;amp; 10 p.m., Sat., July 7, 8 &amp;amp; 10 p.m. and Sun., July 8, 4, 8 &amp;amp; 10 p.m.</when>
+	</event>
+	<event id="6887130">
+		<when>Through 10/5:</when>
+	</event>
+	<event id="6701263">
+		<when>Mon., July 9, 6 p.m.</when>
+	</event>
+	<event id="6850950">
+		<when>Sat., Oct. 6, 9 p.m.</when>
+	</event>
+	<event id="6724553">
+		<when>Sat., Oct. 6, 9 p.m.</when>
+	</event>
+	<event id="6215038">
+		<when>6/16-10/6: Sat 7 AM-1 PM</when>
+	</event>
+	<event id="6267856">
+		<when>Sun., Oct. 7, 7 p.m.</when>
+	</event>
+	<event id="6725536">
+		<when>Sun., Oct. 7, 9 p.m.</when>
+	</event>
+	<event id="6267204">
+		<when>Tue., Oct. 9, 8 p.m.</when>
+	</event>
+	<event id="6792607">
+		<when>Tue., Oct. 9, 8 p.m.</when>
+	</event>
+	<event id="6793656">
+		<when>Wed., Oct. 10, 8 p.m.</when>
+	</event>
+	<event id="6216498">
+		<when>6/13-10/10: Wed 8 AM-1 PM</when>
+	</event>
+	<event id="6674511">
+		<when>Thu., Oct. 11, 7:30 p.m.</when>
+	</event>
+	<event id="6620879">
+		<when>Thu., Oct. 11, 7:30 p.m.</when>
+	</event>
+	<event id="6622440">
+		<when>Mon., Nov. 12, 8 p.m.</when>
+	</event>
+	<event id="6622441">
+		<when>Thu., Nov. 15, 8 p.m.</when>
+	</event>
+	<event id="6622442">
+		<when>Nov. 16-17, 8 p.m.</when>
+	</event>
+	<event id="6622443">
+		<when>Sun., Nov. 18, 8 p.m.</when>
+	</event>
+	<event id="6370451">
+		<when>Sun., Nov. 18, 9 p.m.</when>
+	</event>
+	<event id="6370383">
+		<when>Fri., Nov. 23, 8 p.m.</when>
+	</event>
+	<event id="6723740">
+		<when>Sat., Nov. 24, 8 p.m.</when>
+	</event>
+	<event id="6622445">
+		<when>Nov. 23-24, 8 p.m.</when>
+	</event>
+	<event id="6564738">
+		<when>Wed., Nov. 28, 9 p.m.</when>
+	</event>
+	<event id="6215628">
+		<when>5/18-11/30: Fri 8 AM-4 PM</when>
+	</event>
+	<event id="6133216">
+		<when>Mon., July 9, 6:30 p.m.</when>
+	</event>
+	<event id="6130591">
+		<when>Mon., July 9, 8 p.m.</when>
+	</event>
+	<event id="6132899">
+		<when>Mon., July 9, 9:30 p.m.</when>
+	</event>
+	<event id="6409598">
+		<when>Through 11/30:</when>
+	</event>
+	<event id="5924851">
+		<when>Mon., July 9, 7 p.m.</when>
+	</event>
+	<event id="5980558">
+		<when>Sun., Dec. 2, 7:30 p.m.</when>
+	</event>
+	<event id="6810084">
+		<when>Mon., July 9, 7 p.m.</when>
+	</event>
+	<event id="6811940">
+		<when>Mon., July 9, 7:30 p.m.</when>
+	</event>
+	<event id="6811905">
+		<when>Mon., July 9, 7:45 p.m.</when>
+	</event>
+	<event id="6293047">
+		<when>Through 12/4:</when>
+	</event>
+	<event id="6811530">
+		<when>Mon., July 9, 8 p.m.</when>
+	</event>
+	<event id="6793633">
+		<when>Sat., Dec. 8, 8 p.m.</when>
+	</event>
+	<event id="6810595">
+		<when>Mon., July 9, 8 &amp;amp; 10 p.m.</when>
+	</event>
+	<event id="6810189">
+		<when>Mon., July 9, 8 p.m.</when>
+	</event>
+	<event id="5925212">
+		<when>Sat., Dec. 8, 8 p.m.</when>
+	</event>
+	<event id="6811012">
+		<when>Mon., July 9, 8 p.m.</when>
+	</event>
+	<event id="6809799">
+		<when>Mon., July 9, 8 p.m.</when>
+	</event>
+	<event id="6811962">
+		<when>Mon., July 9, 10 p.m.</when>
+	</event>
+	<event id="6864043">
+		<when>Tue 7/10, doors open at 6 PM, film starts at 7 PM, and performances begin at 9:30 PM</when>
+	</event>
+	<event id="6701328">
+		<when>Tue., July 10, 7-8 p.m.</when>
+	</event>
+	<event id="6879876">
+		<when>Fri., July 13, 9 p.m.</when>
+	</event>
+	<event id="6879604">
+		<when>Fri., July 13, 9:30 p.m.</when>
+	</event>
+	<event id="6863533">
+		<when>Fri., July 13, 10 p.m.</when>
+	</event>
+	<event id="6409303">
+		<when>Through 1/6:</when>
+	</event>
+	<event id="6879903">
+		<when>Fri., July 13, 10:30 p.m.</when>
+	</event>
+	<event id="6216322">
+		<when>Through 7/13:</when>
+	</event>
+	<event id="6573873">
+		<when>Through 1/6:</when>
+	</event>
+	<event id="6879898">
+		<when>Fri., July 13, 3:20 p.m.</when>
+	</event>
+	<event id="6887216">
+		<when>Through 1/6:</when>
+	</event>
+	<event id="5439500">
+		<when>Through 1/6:</when>
+	</event>
+	<event id="6878855">
+		<when>http://admin.events.chicagoreader.com/gyrobase/object-editor/</when>
+	</event>
+	<event id="6184228">
+		<when>Fri., July 13, 7 p.m.</when>
+	</event>
+	<event id="6752272">
+		<when>Fri., July 13, 7 p.m.</when>
+	</event>
+	<event id="5981230">
+		<when>Fri., July 13, 7:30 p.m.</when>
+	</event>
+	<event id="6622487">
+		<when>Fri., July 13, 7:30 p.m.</when>
+	</event>
+	<event id="6811527">
+		<when>Tue., July 10, 9:30 p.m.</when>
+	</event>
+	<event id="6810193">
+		<when>Tue., July 10, 9:30 p.m.</when>
+	</event>
+	<event id="6812390">
+		<when>Tue., July 10, 10 p.m.</when>
+	</event>
+	<event id="6533304">
+		<when>Through 7/10:</when>
+	</event>
+	<event id="6613585">
+		<when>Through 7/10: Tue 6:30 PM, no show 7/3, also Sun 7/15, 5 PM</when>
+	</event>
+	<event id="6879522">
+		<when>Wed., July 11, 5:30 p.m.</when>
+	</event>
+	<event id="3566168">
+		<when>Through 2013</when>
+	</event>
+	<event id="6589098">
+		<when>Wed., July 11, 7 p.m.</when>
+	</event>
+	<event id="6742326">
+		<when>Wed., July 11, 7:30-9 p.m.</when>
+	</event>
+	<event id="6275422">
+		<when>Wed., July 11, 8 p.m.</when>
+	</event>
+	<event id="6810522">
+		<when>Wed., July 11, 8:30 p.m.</when>
+	</event>
+	<event id="858941">
+		<when>Mondays, 9:30 p.m.</when>
+	</event>
+	<event id="6810200">
+		<when>Wed., July 11, 9 p.m.</when>
+	</event>
+	<event id="6810153">
+		<when>Wed., July 11, 9:30 p.m.</when>
+	</event>
+	<event id="6742311">
+		<when>Wed., July 11, 11 a.m.-7 p.m.</when>
+	</event>
+	<event id="6812412">
+		<when>Wed., July 11, 12 p.m.</when>
+	</event>
+	<event id="6819575">
+		<when>Wed., July 11, 12:15 p.m.</when>
+	</event>
+	<event id="6792599">
+		<when>10 AM</when>
+	</event>
+	<event id="6379108">
+		<when>5/26-9/30: Sat 10 AM-6 PM, Sun 10 AM-5 PM</when>
+	</event>
+	<event id="6622470">
+		<when>Sun., Sept. 30, 7:30 p.m.</when>
+	</event>
+	<event id="6622380">
+		<when>Sun., Sept. 30, 8 p.m.</when>
+	</event>
+	<event id="6887211">
+		<when>Through 9/30:</when>
+	</event>
+	<event id="6507097">
+		<when>Sept. 28-30</when>
+	</event>
+	<event id="6533324">
+		<when>Through 9/30:</when>
+	</event>
+	<event id="6886753">
+		<when>Through 9/30:</when>
+	</event>
+	<event id="6887212">
+		<when>Through 9/30:</when>
+	</event>
+	<event id="6700483">
+		<when>Through 9/30:</when>
+	</event>
+	<event id="6565367">
+		<when>Mon., Oct. 1, 8 p.m.</when>
+	</event>
+	<event id="1239291">
+		<when>Open run: Mon 8 PM</when>
+	</event>
+	<event id="841873">
+		<when>Mondays, 5 PM</when>
+	</event>
+	<event id="839732">
+		<when>Mondays, 7 p.m.</when>
+	</event>
+	<event id="840234">
+		<when>Mondays, 8 p.m.</when>
+	</event>
+	<event id="840227">
+		<when>Mondays, 8 p.m.</when>
+	</event>
+	<event id="841846">
+		<when>Mondays, 10 PM</when>
+	</event>
+	<event id="839067">
+		<when>Mondays, 10 p.m.</when>
+	</event>
+	<event id="861627">
+		<when/>
+	</event>
+	<event id="1449384">
+		<when>Open run: First Tuesday of the month, 6 PM</when>
+	</event>
+	<event id="4231443">
+		<when>Open run: Tue 7:30 PM</when>
+	</event>
+	<event id="6574239">
+		<when>Through 7/14:</when>
+	</event>
+	<event id="6532322">
+		<when>Through 9/20:</when>
+	</event>
+	<event id="6811960">
+		<when>Through 9/9:</when>
+	</event>
+	<event id="6621945">
+		<when>Thu., Sept. 13, 8 p.m.</when>
+	</event>
+	<event id="6621249">
+		<when>Fri., Sept. 14, 8 p.m.</when>
+	</event>
+	<event id="935727">
+		<when>Tuesdays, 7:30 p.m.</when>
+	</event>
+	<event id="841969">
+		<when>Tuesdays, 10 p.m.</when>
+	</event>
+	<event id="1300711">
+		<when>Open run: Wed 9 PM</when>
+	</event>
+	<event id="4995608">
+		<when>Open run: every month on the fourth Wed, 8 PM</when>
+	</event>
+	<event id="840720">
+		<when>Wednesdays, 9 PM</when>
+	</event>
+	<event id="838960">
+		<when/>
+	</event>
+	<event id="1151875">
+		<when>Wednesdays, 9 p.m.</when>
+	</event>
+	<event id="6733364">
+		<when>Fri., Sept. 7, 9 p.m.</when>
+	</event>
+	<event id="6621926">
+		<when>Sept. 6-7, 8 p.m.</when>
+	</event>
+	<event id="6724534">
+		<when>Sat., Sept. 8, 10 p.m.</when>
+	</event>
+	<event id="6267694">
+		<when>Sun., Aug. 26, 7 p.m.</when>
+	</event>
+	<event id="6674554">
+		<when>Sun., Aug. 26, 8 p.m.</when>
+	</event>
+	<event id="933917">
+		<when>Thursdays, 9 p.m.</when>
+	</event>
+	<event id="855568">
+		<when>Thursdays, 9 p.m.</when>
+	</event>
+	<event id="841965">
+		<when>Fridays, 10 p.m.</when>
+	</event>
+	<event id="5221333">
+		<when>Sat., Sept. 22, 7 p.m.</when>
+	</event>
+	<event id="6792594">
+		<when>Sat., Sept. 22, 10 p.m.</when>
+	</event>
+	<event id="6131214">
+		<when>Sun., Sept. 23, 6 p.m.</when>
+	</event>
+	<event id="6620647">
+		<when>Sun., Sept. 23, 7 p.m.</when>
+	</event>
+	<event id="6562252">
+		<when>Sun., Sept. 23, 7:30 p.m.</when>
+	</event>
+	<event id="6792618">
+		<when>Sept. 21-23</when>
+	</event>
+	<event id="6168454">
+		<when>Through 9/23:</when>
+	</event>
+	<event id="6507194">
+		<when>9/22-9/23, Sat 10 AM-6 PM, Sun 10 AM-5 PM</when>
+	</event>
+	<event id="6762601">
+		<when>Through 9/23:</when>
+	</event>
+	<event id="6887210">
+		<when>Through 9/23:</when>
+	</event>
+	<event id="6622006">
+		<when>Sept. 22-23, 8 p.m.</when>
+	</event>
+	<event id="6793029">
+		<when>Mon., Sept. 24, 7:30 p.m.</when>
+	</event>
+	<event id="6793062">
+		<when>7 AM - 3 PM</when>
+	</event>
+	<event id="6792339">
+		<when>Starts July 23. Ongoing</when>
+	</event>
+	<event id="839270">
+		<when>Open run: Sun 8 PM</when>
+	</event>
+	<event id="5091948">
+		<when>Open run: first Mon of every month, 7:30 PM</when>
+	</event>
+	<event id="5877179">
+		<when>Thu., Sept. 27, 8 p.m.</when>
+	</event>
+	<event id="838976">
+		<when>Open run: Mon 9 PM</when>
+	</event>
+	<event id="6130940">
+		<when>Fri., Sept. 28, 7:30 p.m.</when>
+	</event>
+	<event id="1378009">
+		<when>Open run: Mon 8:30 PM</when>
+	</event>
+	<event id="6620838">
+		<when>Fri., Sept. 28, 8 p.m.</when>
+	</event>
+	<event id="6366455">
+		<when>Fri., Sept. 28, 8 p.m.</when>
+	</event>
+	<event id="6675051">
+		<when>Fri., Sept. 28, 8:30 p.m.</when>
+	</event>
+	<event id="6676741">
+		<when>Fri., Sept. 28, 9:30 p.m.</when>
+	</event>
+	<event id="6620854">
+		<when>Sat., Sept. 29, 8 p.m.</when>
+	</event>
+	<event id="4876776">
+		<when>Mondays</when>
+	</event>
+	<event id="6733316">
+		<when>Sat., Sept. 29, 9 p.m.</when>
+	</event>
+	<event id="6792613">
+		<when>Sat., Sept. 29, 10 p.m.</when>
+	</event>
+	<event id="2530102">
+		<when>Open run: Mon 10 PM</when>
+	</event>
+	<event id="6622329">
+		<when>Sept. 28-29, 8 p.m.</when>
+	</event>
+	<event id="6620861">
+		<when>Thu., Oct. 11, 7:30 p.m.</when>
+	</event>
+	<event id="6562228">
+		<when>Fri., Oct. 12, 9 p.m.</when>
+	</event>
+	<event id="4484517">
+		<when>Open run: Mon-Tue 9 PM</when>
+	</event>
+	<event id="6733356">
+		<when>Fri., Oct. 19, 9 p.m.</when>
+	</event>
+	<event id="6638428">
+		<when>Mondays, 8:30 p.m.</when>
+	</event>
+	<event id="6792340">
+		<when>Sat., Oct. 20, 7 p.m.</when>
+	</event>
+	<event id="931428">
+		<when>Mondays, 9 p.m.</when>
+	</event>
+	<event id="863010">
+		<when>Mondays, 9 p.m.</when>
+	</event>
+	<event id="841589">
+		<when>Mondays, 9 p.m.</when>
+	</event>
+	<event id="860586">
+		<when>Mondays, 9 PM</when>
+	</event>
+	<event id="839622">
+		<when>Mondays, 9:30 p.m.</when>
+	</event>
+	<event id="6674936">
+		<when>Fri., Oct. 5, 8 p.m.</when>
+	</event>
+	<event id="6621357">
+		<when>Fri., Oct. 5, 10 p.m.</when>
+	</event>
+	<event id="6183743">
+		<when>Fri., Oct. 5, 10 p.m.</when>
+	</event>
+	<event id="6267281">
+		<when>Sun., Dec. 9, 3 &amp;amp; 8 p.m.</when>
+	</event>
+	<event id="6792343">
+		<when>Wed., Dec. 12, 7:30 p.m.</when>
+	</event>
+	<event id="6531273">
+		<when>Through 12/27: Thu 10 PM</when>
+	</event>
+	<event id="6620884">
+		<when>Dec. 27-28, 8:30 p.m.</when>
+	</event>
+	<event id="6809764">
+		<when>Through 12/29: Tue 11 AM, Wed 10:30 AM, Thu 11 AM, Sat 10:30 and 11 AM, Sun 1 PM</when>
+	</event>
+	<event id="6622446">
+		<when>Mon., Dec. 31, 7:30 &amp;amp; 11 p.m.</when>
+	</event>
+	<event id="5594619">
+		<when>Through 12/31:</when>
+	</event>
+	<event id="3846416">
+		<when>Through Dec. 31</when>
+	</event>
+	<event id="6886776">
+		<when>Through 1/5:</when>
+	</event>
+	<event id="5691478">
+		<when>Through 1/6: Wed 2 and 7:30 PM, Thu 7:30 PM, Fri 8 PM, Sat 5 and 8 PM, Sun 3:30 and 6:30 PM</when>
+	</event>
+	<event id="6802577">
+		<when>Through 1/12:</when>
+	</event>
+	<event id="6463849">
+		<when>7/6-7/8, Fri-Sun 10 AM-5 PM</when>
+	</event>
+	<event id="6467773">
+		<when>7/7-7/8, Sat-Sun noon-10 PM</when>
+	</event>
+	<event id="6717461">
+		<when>6/27-7/1, 7/3-7/8: Wed-Sun and then Tue-Sun, noon-11 PM</when>
+	</event>
+	<event id="5438983">
+		<when>Through 7/8:</when>
+	</event>
+	<event id="3683705">
+		<when>Open run: Tue 6 PM (sign-up at 11 PM)</when>
+	</event>
+	<event id="6812407">
+		<when>Sun., July 8, 12 p.m.</when>
+	</event>
+	<event id="1675519">
+		<when>Open run: first Tuesday of the month</when>
+	</event>
+	<event id="6812429">
+		<when>Sun., July 8, 12 p.m.</when>
+	</event>
+	<event id="6819587">
+		<when>Sun., July 8, 12 p.m.</when>
+	</event>
+	<event id="6751477">
+		<when>Sun., July 8, 3-6 p.m.</when>
+	</event>
+	<event id="3061675">
+		<when>Open run: Tue 9 PM</when>
+	</event>
+	<event id="6811939">
+		<when>Sun., July 8, 5 p.m.</when>
+	</event>
+	<event id="6811023">
+		<when>Sun., July 8, 5 p.m.</when>
+	</event>
+	<event id="2762452">
+		<when>Open run: Tue 9:30 PM</when>
+	</event>
+	<event id="6622447">
+		<when>Sun., July 8, 6 p.m.</when>
+	</event>
+	<event id="6810235">
+		<when>Sun., July 8, 6:30 p.m.</when>
+	</event>
+	<event id="6029312">
+		<when>Sun., July 8, 7 p.m.</when>
+	</event>
+	<event id="6810195">
+		<when>Sun., July 8, 7 p.m.</when>
+	</event>
+	<event id="6029283">
+		<when>Sun., July 8, 7 p.m.</when>
+	</event>
+	<event id="6409464">
+		<when>Through 1/21:</when>
+	</event>
+	<event id="6081243">
+		<when>July 13-14, 7:30 p.m., 2013</when>
+	</event>
+	<event id="6176284">
+		<when>Open run: the first Mon of each month, 12:15 PM</when>
+	</event>
+	<event id="839220">
+		<when>Open run: Tue 8 PM</when>
+	</event>
+	<event id="839279">
+		<when>Open run: Tue 10:30 PM</when>
+	</event>
+	<event id="839250">
+		<when>Open run: Wed 8 PM</when>
+	</event>
+	<event id="974749">
+		<when>Open run: Wed 7:30 PM,</when>
+	</event>
+	<event id="6079272">
+		<when>Fourth Wednesday of every month, 8 p.m.-2 a.m.</when>
+	</event>
+	<event id="5768256">
+		<when>Open run: Thu 8 PM</when>
+	</event>
+	<event id="5918688">
+		<when>Open run: the last Fri of each month, 8 PM,</when>
+	</event>
+	<event id="3625455">
+		<when>Open run: Fri 10:30 PM</when>
+	</event>
+	<event id="5799476">
+		<when>Open run: the second Fri of each month, 6:30 PM</when>
+	</event>
+	<event id="839165">
+		<when>Open run: Fri 10:30 PM</when>
+	</event>
+	<event id="5989973">
+		<when>Open run: Sat 2 PM</when>
+	</event>
+	<event id="5717044">
+		<when>Through 8/18: Sat 11 PM,</when>
+	</event>
+	<event id="840667">
+		<when>Open run: Sat 8 PM</when>
+	</event>
+	<event id="4929940">
+		<when>Open run: Sat 7:30 and 9 PM</when>
+	</event>
+	<event id="839249">
+		<when>Open run: Sat 10:30 PM</when>
+	</event>
+	<event id="996337">
+		<when>Mondays, 5 p.m.</when>
+	</event>
+	<event id="860057">
+		<when>Mondays, 7 p.m.</when>
+	</event>
+	<event id="6621986">
+		<when>Tue., Sept. 18, 8 p.m.</when>
+	</event>
+	<event id="839275">
+		<when>Open run: Mon 8:30 PM</when>
+	</event>
+	<event id="855625">
+		<when>Mondays, 10 p.m.</when>
+	</event>
+	<event id="6612442">
+		<when>Through 9/9:</when>
+	</event>
+	<event id="6506625">
+		<when>9/8-9/9, Sat 10 AM-6 PM, Sun 10 AM-5 PM</when>
+	</event>
+	<event id="839645">
+		<when>Mondays, 10:30 p.m.</when>
+	</event>
+	<event id="860615">
+		<when>Mondays, 11 p.m.</when>
+	</event>
+	<event id="6574244">
+		<when>Through 9/9:</when>
+	</event>
+	<event id="5439886">
+		<when>Through 9/9:</when>
+	</event>
+	<event id="6506775">
+		<when>Sept. 8-9</when>
+	</event>
+	<event id="6621932">
+		<when>Sept. 8-9, 8 p.m.</when>
+	</event>
+	<event id="6792598">
+		<when>Tue., Sept. 11, 8 p.m.</when>
+	</event>
+	<event id="6792605">
+		<when>Wed., Sept. 12, 7 p.m.</when>
+	</event>
+	<event id="1130009">
+		<when>Open run: Tue 10 PM</when>
+	</event>
+	<event id="6623705">
+		<when>Thu., Sept. 13</when>
+	</event>
+	<event id="6620561">
+		<when>Thu., Sept. 13, 8 p.m.</when>
+	</event>
+	<event id="6184230">
+		<when>Previews 5/1-5/10: Check with theater for showtimes. Opens 5/11.Through 7/29: Wed-Thu 7:30 PM, Fri 8 PM, Sat 4 and 8 PM, Sun 2 PM, no show 6/1</when>
+	</event>
+	<event id="6724551">
+		<when>Thu., Sept. 13, 8 p.m.</when>
+	</event>
+	<event id="1337990">
+		<when>Tue 5:30 PM-2 AM</when>
+	</event>
+	<event id="4325783">
+		<when>Open run: Thu 8 PM, Fri-Sat 8 and 11 PM, Sun 7 PM, also Tue 8/2-8/30 and Wed 7/6-8/31, 8 PM,</when>
+	</event>
+	<event id="6255804">
+		<when>Open run: Tue-Thu 8 PM, Fri 8 and 11 PM, Sat 8 PM</when>
+	</event>
+	<event id="6850608">
+		<when>Through 7/14: Sat 6 PM</when>
+	</event>
+	<event id="6645467">
+		<when>Through 7/14:</when>
+	</event>
+	<event id="6887124">
+		<when>Through 7/14: Thu 7:30 PM, Fri 8 and 10:15 PM, Sat 7 and 9:15 PM</when>
+	</event>
+	<event id="6878881">
+		<when>Through 7/14: Fri-Sat 8 PM</when>
+	</event>
+	<event id="5676254">
+		<when>July 12-14, 8 p.m.</when>
+	</event>
+	<event id="6861363">
+		<when>Sun., July 15, 1-7 p.m.</when>
+	</event>
+	<event id="6879545">
+		<when>Sun., July 15, 8 p.m.</when>
+	</event>
+	<event id="6879878">
+		<when>Sun., July 15, 9 p.m.</when>
+	</event>
+	<event id="6130890">
+		<when>Sat., Sept. 15, 7:30 p.m.</when>
+	</event>
+	<event id="5924887">
+		<when>Sat., Sept. 15, 8 p.m.</when>
+	</event>
+	<event id="6621336">
+		<when>Sat., Sept. 15, 9 p.m.</when>
+	</event>
+	<event id="6879904">
+		<when>Sun., July 15, 10 p.m.</when>
+	</event>
+	<event id="6467831">
+		<when>7/15, Sun 10 AM-8 PM</when>
+	</event>
+	<event id="6674565">
+		<when>Sat., Sept. 15, 9 p.m.</when>
+	</event>
+	<event id="6725546">
+		<when>Sat., Sept. 15, 9:30 p.m.</when>
+	</event>
+	<event id="6638031">
+		<when>Through 7/15: Thu-Sat 8 PM, Sun 1:30 PM.</when>
+	</event>
+	<event id="6675386">
+		<when>Sept. 14-15, 5 p.m.</when>
+	</event>
+	<event id="6268713">
+		<when>7/13-7/15</when>
+	</event>
+	<event id="6622007">
+		<when>Through 7/15: Fri-Tue sundown-dawn, no showings 6/8 and 7/13</when>
+	</event>
+	<event id="6621948">
+		<when>Sept. 14-15, 8 p.m.</when>
+	</event>
+	<event id="6348347">
+		<when>Through 9/16:</when>
+	</event>
+	<event id="6414360">
+		<when>Through July 15</when>
+	</event>
+	<event id="6508344">
+		<when>9/15-9/16, Sat 6-10 PM, Sun noon-10 PM</when>
+	</event>
+	<event id="6268110">
+		<when>7/11-7/15, Wed-Sat 5:30 PM, Sun 3 PM</when>
+	</event>
+	<event id="6638389">
+		<when>Through 7/15: Thu 7:30 PM, Sun 7 PM</when>
+	</event>
+	<event id="6293100">
+		<when>Through 6/16:</when>
+	</event>
+	<event id="6880201">
+		<when>Sun., July 15, 12 p.m.</when>
+	</event>
+	<event id="6880123">
+		<when>Sun., July 15, 12 p.m.</when>
+	</event>
+	<event id="6879890">
+		<when>Sun., July 15, 12:15 p.m.</when>
+	</event>
+	<event id="6879900">
+		<when>Sun., July 15, 1 p.m.</when>
+	</event>
+	<event id="6751481">
+		<when>Sun., July 15, 3-6 p.m.</when>
+	</event>
+	<event id="996338">
+		<when>Tuesdays, 5 p.m.</when>
+	</event>
+	<event id="6879256">
+		<when>Sun., July 15, 6:30 p.m.</when>
+	</event>
+	<event id="6879257">
+		<when>Sun., July 15, 7 p.m.</when>
+	</event>
+	<event id="6879249">
+		<when>Sun., July 15, 8 p.m.</when>
+	</event>
+	<event id="6879178">
+		<when>Sun., July 15, 8 p.m.</when>
+	</event>
+	<event id="6878885">
+		<when>Sun., July 15, 8 p.m.</when>
+	</event>
+	<event id="840760">
+		<when>Tuesdays, 6:30 p.m.</when>
+	</event>
+	<event id="6565357">
+		<when>Sun., July 15, 8 p.m.</when>
+	</event>
+	<event id="6879253">
+		<when>Sun., July 15, 8:30 p.m.</when>
+	</event>
+	<event id="6863534">
+		<when>Sun., July 15, 9 p.m.</when>
+	</event>
+	<event id="840235">
+		<when>Tuesdays, 7 p.m.</when>
+	</event>
+	<event id="6879212">
+		<when>Sun., July 15, 10 p.m.</when>
+	</event>
+	<event id="6880206">
+		<when>Sun., July 15, 10 p.m.</when>
+	</event>
+	<event id="6878588">
+		<when>Sun., July 15, 10 p.m.</when>
+	</event>
+	<event id="6792623">
+		<when>Sun., July 15, 10 p.m.</when>
+	</event>
+	<event id="6580607">
+		<when>Through 7/15: 7:30 PM.</when>
+	</event>
+	<event id="862846">
+		<when>Tuesdays, 7 p.m.</when>
+	</event>
+	<event id="6639825">
+		<when>Through 7/15:</when>
+	</event>
+	<event id="6612792">
+		<when>Through 7/15:</when>
+	</event>
+	<event id="6580632">
+		<when>Through 7/15: Thu-Sat 7:30 PM, Sun 2:30 PM</when>
+	</event>
+	<event id="852930">
+		<when>Tuesdays, 7 p.m.</when>
+	</event>
+	<event id="6878545">
+		<when>Through 7/15: Thu 8 PM, Fri-Sat 8 and 10:30 PM, Sun 8 PM</when>
+	</event>
+	<event id="6580585">
+		<when>Through 7/15: Thu-Sat 7:30 PM, Sun 3 PM.</when>
+	</event>
+	<event id="6750958">
+		<when>Through 7/15: Thu-Sat 7 :30 PM, Sun 3 PM</when>
+	</event>
+	<event id="6878523">
+		<when>Through 7/15: Fri-Sat 8 PM, Sun 2 PM</when>
+	</event>
+	<event id="5987072">
+		<when>Through 7/15:</when>
+	</event>
+	<event id="6269141">
+		<when>7/13-7/15</when>
+	</event>
+	<event id="6510729">
+		<when>Through 7/15: Wed 7, 8:15, and 8:30 PM ,Thu 7, 7:30, and 8:45 PM, Fri 7, 7:15, 8:30 abd 9 PM, Sat 11:30 AM, 2, 2:30 ,3:30, 7, and 9 PM, Sun 12:30, 1:30, 3:30, 5:45, and 7:45m PM</when>
+	</event>
+	<event id="5987070">
+		<when>Through 7/15:</when>
+	</event>
+	<event id="6467729">
+		<when>7/13-7/15, Fri 5-10 PM, Sat noon-10 PM, Sunday noon-9 PM</when>
+	</event>
+	<event id="6879264">
+		<when>Thu., July 12, 8 &amp;amp; 10 p.m., Fri., July 13, 8 &amp;amp; 10 p.m., Sat., July 14, 8 &amp;amp; 10 p.m. and Sun., July 15, 4, 8 &amp;amp; 10 p.m.</when>
+	</event>
+	<event id="6184650">
+		<when>Mon., July 16</when>
+	</event>
+	<event id="6879605">
+		<when>Mon., July 16, 9:30 p.m.</when>
+	</event>
+	<event id="849654">
+		<when>Tuesdays, 8:30 p.m.</when>
+	</event>
+	<event id="6752996">
+		<when>Mon., July 16, 6 p.m.</when>
+	</event>
+	<event id="6133217">
+		<when>Mon., July 16, 6:30 p.m.</when>
+	</event>
+	<event id="6743201">
+		<when>Mon., July 16, 7 p.m.</when>
+	</event>
+	<event id="857370">
+		<when>Tuesdays, 9 p.m.</when>
+	</event>
+	<event id="6185143">
+		<when>Mon., July 16, 7 p.m.</when>
+	</event>
+	<event id="6878865">
+		<when>Mon., July 16, 7 p.m.</when>
+	</event>
+	<event id="6878908">
+		<when>Mon., July 16, 8 p.m.</when>
+	</event>
+	<event id="6878856">
+		<when>Mon., July 16, 8 p.m.</when>
+	</event>
+	<event id="862402">
+		<when>Tuesdays, 9 p.m.</when>
+	</event>
+	<event id="6878917">
+		<when>Mon., July 16, 9:30 p.m.</when>
+	</event>
+	<event id="6637634">
+		<when>Through 7/16:</when>
+	</event>
+	<event id="6700867">
+		<when>Through 7/16:</when>
+	</event>
+	<event id="931818">
+		<when>Tuesdays, 9 p.m.</when>
+	</event>
+	<event id="6623695">
+		<when>Tue., July 17, 9:30 p.m.</when>
+	</event>
+	<event id="6878580">
+		<when>Tue., July 17, 6:30 p.m.</when>
+	</event>
+	<event id="5924865">
+		<when>Tue., July 17, 7 p.m.</when>
+	</event>
+	<event id="849610">
+		<when>Tuesdays, 9 p.m.</when>
+	</event>
+	<event id="6878273">
+		<when>Tue., July 17, 7 p.m.</when>
+	</event>
+	<event id="6879198">
+		<when>Tue., July 17, 7 p.m.</when>
+	</event>
+	<event id="2767580">
+		<when>Tuesdays, 9 p.m.</when>
+	</event>
+	<event id="6878903">
+		<when>Tue., July 17, 8 p.m.</when>
+	</event>
+	<event id="6879547">
+		<when>Tue., July 17, 8 p.m.</when>
+	</event>
+	<event id="6466752">
+		<when>Tue., July 17, 8 p.m.</when>
+	</event>
+	<event id="6622489">
+		<when>Tue., July 17, 8 p.m.</when>
+	</event>
+	<event id="6878857">
+		<when>Tue., July 17, 8 p.m.</when>
+	</event>
+	<event id="863075">
+		<when>Tuesdays, 9 p.m.</when>
+	</event>
+	<event id="6878869">
+		<when>Tue., July 17, 9 p.m.</when>
+	</event>
+	<event id="6879606">
+		<when>Tue., July 17, 9:30 p.m.</when>
+	</event>
+	<event id="6878910">
+		<when>Tue., July 17, 9:30 p.m.</when>
+	</event>
+	<event id="857236">
+		<when>Tuesdays, 9 p.m.</when>
+	</event>
+	<event id="6581056">
+		<when>Through 7/7: Thu-Sat 8 PM, Sun 7 PM. 7/13-7/21: Fri-Sat 8 PM</when>
+	</event>
+	<event id="6887120">
+		<when>Through 7/17:</when>
+	</event>
+	<event id="6743224">
+		<when>Wed., July 18, 7 p.m.</when>
+	</event>
+	<event id="6811941">
+		<when>Sat., July 7, 7:30 p.m.</when>
+	</event>
+	<event id="5924882">
+		<when>Sat., July 7, 7:30 p.m.</when>
+	</event>
+	<event id="6792589">
+		<when>Sat., July 7, 7:30 p.m.</when>
+	</event>
+	<event id="6032185">
+		<when>Sat., July 7, 8 p.m.</when>
+	</event>
+	<event id="1105913">
+		<when>Tuesdays, 9 p.m.</when>
+	</event>
+	<event id="6811157">
+		<when>Sat., July 7, 8 p.m.</when>
+	</event>
+	<event id="6410897">
+		<when>Sat., July 7, 8 p.m.</when>
+	</event>
+	<event id="6809768">
+		<when>Sat., July 7, 8 p.m.</when>
+	</event>
+	<event id="5980630">
+		<when>Sat., July 7, 8 p.m.</when>
+	</event>
+	<event id="6810587">
+		<when>Sat., July 7, 8 p.m.</when>
+	</event>
+	<event id="6810530">
+		<when>Sat., July 7, 8:30 p.m.</when>
+	</event>
+	<event id="6810182">
+		<when>Sat., July 7, 8:30 p.m.</when>
+	</event>
+	<event id="6810549">
+		<when>Sat., July 7, 8:30 p.m.</when>
+	</event>
+	<event id="6810603">
+		<when>Fri., July 6, 9 p.m. and Sat., July 7, 8 p.m.</when>
+	</event>
+	<event id="6793895">
+		<when>Sat., July 7, 9 p.m.</when>
+	</event>
+	<event id="6811491">
+		<when>Fri., July 6, 9 p.m. and Sat., July 7, 9 p.m.</when>
+	</event>
+	<event id="5877208">
+		<when>Sat., July 7, 9 p.m.</when>
+	</event>
+	<event id="6811605">
+		<when>Sat., July 7, 9 p.m.</when>
+	</event>
+	<event id="6811010">
+		<when>Sat., July 7, 9 p.m.</when>
+	</event>
+	<event id="6811516">
+		<when>Sat., July 7, 9:30 p.m.</when>
+	</event>
+	<event id="6811523">
+		<when>Sat., July 7, 9:30 p.m.</when>
+	</event>
+	<event id="6811485">
+		<when>Fri., July 6, 9:30 p.m. and Sat., July 7, 9:30 p.m.</when>
+	</event>
+	<event id="6811907">
+		<when>Fri., July 6, 9:30 p.m. and Sat., July 7, 9:30 p.m.</when>
+	</event>
+	<event id="6810413">
+		<when>Sat., July 7, 10 p.m.</when>
+	</event>
+	<event id="6811959">
+		<when>Sat., July 7, 10 p.m.</when>
+	</event>
+	<event id="6812441">
+		<when>Sat., July 7, 10 p.m.</when>
+	</event>
+	<event id="6811465">
+		<when>Sat., July 7, 10 p.m.</when>
+	</event>
+	<event id="6622469">
+		<when>Sat., July 7, 10 p.m.</when>
+	</event>
+	<event id="6812383">
+		<when>Sat., July 7, 10 p.m.</when>
+	</event>
+	<event id="5877173">
+		<when>Sat., July 7, 10 p.m.</when>
+	</event>
+	<event id="6533310">
+		<when>Through 7/7:</when>
+	</event>
+	<event id="6168458">
+		<when>Through 7/7:</when>
+	</event>
+	<event id="6409703">
+		<when>Through 7/7:</when>
+	</event>
+	<event id="6810228">
+		<when>Through 7/7: Fri-Sat 8 PM</when>
+	</event>
+	<event id="6531919">
+		<when>Through 7/7:</when>
+	</event>
+	<event id="6751005">
+		<when>Through 7/7: Thu 8 PM, Fri 8 PM, Sat 11 AM and 8 PM, Sun 1 and 6 PM,</when>
+	</event>
+	<event id="6612399">
+		<when>Through 7/7:</when>
+	</event>
+	<event id="6531925">
+		<when>Through 7/7:</when>
+	</event>
+	<event id="6532996">
+		<when>Through 7/7:</when>
+	</event>
+	<event id="838959">
+		<when>Open run: Tue 9:30 PM</when>
+	</event>
+	<event id="6531920">
+		<when>Through 7/7:</when>
+	</event>
+	<event id="6637724">
+		<when>Through 7/7: Thu 7:30 PM, Fri-Sat 7:30 and 10:00 PM</when>
+	</event>
+	<event id="6508200">
+		<when>Through 7/7: Fri-Sat, 8 PM</when>
+	</event>
+	<event id="839550">
+		<when>Tuesdays, 9:30 p.m.</when>
+	</event>
+	<event id="6812384">
+		<when>Sun., July 8, 1-5 p.m.</when>
+	</event>
+	<event id="6812393">
+		<when>Sun., July 8, 1 p.m.</when>
+	</event>
+	<event id="5980632">
+		<when>Sun., July 8, 5:30 p.m.</when>
+	</event>
+	<event id="852495">
+		<when>Tuesdays, 9:30 p.m.</when>
+	</event>
+	<event id="6809794">
+		<when>Sun., July 8, 8 p.m.</when>
+	</event>
+	<event id="6367126">
+		<when>Sept. 14-16</when>
+	</event>
+	<event id="6464084">
+		<when>7/19-9/16, Thu-Sat 6-9:30 PM, Sun 4-7 PM</when>
+	</event>
+	<event id="6620910">
+		<when>Through 9/16:</when>
+	</event>
+	<event id="839623">
+		<when>Tuesdays, 9:30 p.m.</when>
+	</event>
+	<event id="6621306">
+		<when>Mon., Sept. 17, 7 p.m.</when>
+	</event>
+	<event id="6621342">
+		<when>Mon., Sept. 17, 8 p.m.</when>
+	</event>
+	<event id="839681">
+		<when>Tuesdays, 9:30 p.m.</when>
+	</event>
+	<event id="6726430">
+		<when>Tue., Sept. 18, 8 p.m.</when>
+	</event>
+	<event id="6733310">
+		<when>Tue., Sept. 18, 8 p.m.</when>
+	</event>
+	<event id="6183804">
+		<when>Tue., Sept. 18, 9 p.m.</when>
+	</event>
+	<event id="6621283">
+		<when>Wed., Sept. 19, 7 p.m.</when>
+	</event>
+	<event id="6367306">
+		<when>Wed., Sept. 19, 9 p.m.</when>
+	</event>
+	<event id="6792333">
+		<when>Thu., Sept. 20, 8 p.m.</when>
+	</event>
+	<event id="6792604">
+		<when>Thu., Sept. 20, 9 p.m.</when>
+	</event>
+	<event id="5584936">
+		<when>Sept. 19-20, 8 p.m.</when>
+	</event>
+	<event id="6506493">
+		<when>9/7-9/8, Fri 4-10 PM, Sat 3-9 PM</when>
+	</event>
+	<event id="6079943">
+		<when>Sept. 7-8, 7:30 p.m.</when>
+	</event>
+	<event id="5778636">
+		<when>Sept. 7-8, 8 p.m.</when>
+	</event>
+	<event id="5439889">
+		<when>Through 9/9:</when>
+	</event>
+	<event id="840205">
+		<when>Tuesdays, 10 p.m.</when>
+	</event>
+	<event id="6812382">
+		<when>Through 9/9: The second Sunday of each month, noon-5 PM</when>
+	</event>
+	<event id="6620556">
+		<when>Sun., Sept. 9, 7 p.m.</when>
+	</event>
+	<event id="5846099">
+		<when>Through 9/9:</when>
+	</event>
+	<event id="6508669">
+		<when>8/30-9/9</when>
+	</event>
+	<event id="6508994">
+		<when>9/9, Sun</when>
+	</event>
+	<event id="6507983">
+		<when>9/7-9/9, Fri 6-11 PM, Sat-Sun noon-11 PM</when>
+	</event>
+	<event id="857274">
+		<when>Tuesdays, 10:30 p.m.</when>
+	</event>
+	<event id="848761">
+		<when>Tuesdays, 11 p.m.</when>
+	</event>
+	<event id="1989902">
+		<when>Wed 5-9 PM</when>
+	</event>
+	<event id="6132889">
+		<when>Thu., Sept. 13, 8 p.m.</when>
+	</event>
+	<event id="5770862">
+		<when>Open run: the second Wed of each month</when>
+	</event>
+	<event id="6792601">
+		<when>Thu., Sept. 13, 9 p.m.</when>
+	</event>
+	<event id="5648517">
+		<when>Ongoing: Wed 8 PM</when>
+	</event>
+	<event id="5439885">
+		<when>Through 9/13:</when>
+	</event>
+	<event id="6733307">
+		<when>Fri., Sept. 14, 8 p.m.</when>
+	</event>
+	<event id="2530105">
+		<when>Open run: Wed 10 PM</when>
+	</event>
+	<event id="6795504">
+		<when>Fri., Sept. 14, 9:30 p.m.</when>
+	</event>
+	<event id="6724535">
+		<when>Fri., Sept. 14, 10 p.m.</when>
+	</event>
+	<event id="6674537">
+		<when>Fri., Sept. 14, 10 p.m.</when>
+	</event>
+	<event id="6531279">
+		<when>Through 9/14: Fri midnight</when>
+	</event>
+	<event id="6639092">
+		<when>Through 9/14:</when>
+	</event>
+	<event id="6563524">
+		<when>Sat., Sept. 15, 6:30 p.m.</when>
+	</event>
+	<event id="6081240">
+		<when>Sat., Sept. 15, 7:30 p.m.</when>
+	</event>
+	<event id="839209">
+		<when>Open run: Tue 8 PM</when>
+	</event>
+	<event id="839146">
+		<when>Wednesdays, 7 p.m.</when>
+	</event>
+	<event id="841406">
+		<when>Wednesdays, 8 p.m.</when>
+	</event>
+	<event id="844562">
+		<when>Wednesdays, 8 p.m.</when>
+	</event>
+	<event id="6675749">
+		<when>Sat., July 7, 10 p.m.</when>
+	</event>
+	<event id="6174195">
+		<when>Through 7/7: Fri-Sat 8 PM</when>
+	</event>
+	<event id="6812442">
+		<when>Sat., July 7, 7 a.m.</when>
+	</event>
+	<event id="842718">
+		<when>Wednesdays, 8 p.m.</when>
+	</event>
+	<event id="5980371">
+		<when>Sat., July 7, 11:30 a.m.</when>
+	</event>
+	<event id="6812405">
+		<when>Sat., July 7, 12 p.m.</when>
+	</event>
+	<event id="6812428">
+		<when>Sat., July 7, 12 p.m.</when>
+	</event>
+	<event id="6809789">
+		<when>Sat., July 7, 12-6 p.m.</when>
+	</event>
+	<event id="6819584">
+		<when>Sat., July 7, 12 p.m.</when>
+	</event>
+	<event id="6742315">
+		<when>Sat., July 7, 2-4 p.m.</when>
+	</event>
+	<event id="838954">
+		<when>Open run: Wed 8 PM</when>
+	</event>
+	<event id="6811948">
+		<when>Sat., July 7, 5 p.m.</when>
+	</event>
+	<event id="6811021">
+		<when>Sat., July 7, 5 p.m.</when>
+	</event>
+	<event id="6819571">
+		<when>Fri., July 6, 6:30 p.m. and Sat., July 7, 7:30 p.m.</when>
+	</event>
+	<event id="6266865">
+		<when>Sat., July 7, 7 p.m.</when>
+	</event>
+	<event id="838991">
+		<when>Open run: Wed 8:30 PM</when>
+	</event>
+	<event id="5779352">
+		<when>Fri., July 6, 7 p.m. and Sat., July 7, 7 p.m.</when>
+	</event>
+	<event id="840724">
+		<when>Tuesdays, 9 PM</when>
+	</event>
+	<event id="839722">
+		<when>Tuesdays, 10 p.m.</when>
+	</event>
+	<event id="931826">
+		<when>Open run: Wed 8 PM,</when>
+	</event>
+	<event id="3172339">
+		<when>Open run: first Wednesday of the month, 7:30 PM,</when>
+	</event>
+	<event id="5361120">
+		<when>Open run: Wed 8 PM</when>
+	</event>
+	<event id="1624264">
+		<when>Open run: Wed 10 PM</when>
+	</event>
+	<event id="5778356">
+		<when>Ongoing: Third Wed of every month, 8 PM</when>
+	</event>
+	<event id="996339">
+		<when>Wednesdays, 5 p.m.</when>
+	</event>
+	<event id="852235">
+		<when>Wednesdays, 7 p.m.</when>
+	</event>
+	<event id="838960">
+		<when>Open run: Wed 9 PM (preceded by an open mike) and Sat 9 PM</when>
+	</event>
+	<event id="1227194">
+		<when>Open run: final Thu of each month, 10 PM and midnight,</when>
+	</event>
+	<event id="839128">
+		<when>Wed 9 PM</when>
+	</event>
+	<event id="843768">
+		<when>Wednesdays, 9 p.m.</when>
+	</event>
+	<event id="854823">
+		<when>Wednesdays, 9 p.m.</when>
+	</event>
+	<event id="840988">
+		<when>Wednesdays, 2 AM</when>
+	</event>
+	<event id="839026">
+		<when>Open run: Thu 8 PM, Fri 7 PM, Sat 4, 7, and 10 PM, Sun 4 and 7 PM</when>
+	</event>
+	<event id="4836892">
+		<when>Open run: Thu 8 PM</when>
+	</event>
+	<event id="848611">
+		<when>Thursdays, 8 PM</when>
+	</event>
+	<event id="3753640">
+		<when>Open run: Thu 10:30 PM</when>
+	</event>
+	<event id="1300801">
+		<when>Thu 3/4, 5:30 PM</when>
+	</event>
+	<event id="859590">
+		<when>Wednesdays, 9 p.m.</when>
+	</event>
+	<event id="6675404">
+		<when>Wed., July 18, 8:30 p.m.</when>
+	</event>
+	<event id="6878871">
+		<when>Wed., July 18, 9:30 p.m.</when>
+	</event>
+	<event id="6753084">
+		<when>Wed., July 18, 6 p.m.</when>
+	</event>
+	<event id="6880228">
+		<when>Wed., July 18, 7:30 p.m.</when>
+	</event>
+	<event id="850307">
+		<when>Wednesdays, 9 p.m.</when>
+	</event>
+	<event id="6751398">
+		<when>Wed., July 18, 7:30 p.m.</when>
+	</event>
+	<event id="6752294">
+		<when>Wed., July 18, 7:30 p.m.</when>
+	</event>
+	<event id="6879258">
+		<when>Wed., July 18, 8 p.m.</when>
+	</event>
+	<event id="929691">
+		<when>Wednesdays, 9 p.m.</when>
+	</event>
+	<event id="6879548">
+		<when>Wed., July 18, 8 p.m.</when>
+	</event>
+	<event id="6878905">
+		<when>Wed., July 18, 8 p.m.</when>
+	</event>
+	<event id="6366482">
+		<when>Wed., July 18, 8 p.m.</when>
+	</event>
+	<event id="6878913">
+		<when>Wed., July 18, 8 p.m.</when>
+	</event>
+	<event id="6878860">
+		<when>Wed., July 18, 9 p.m.</when>
+	</event>
+	<event id="6878923">
+		<when>Wed., July 18, 9 p.m.</when>
+	</event>
+	<event id="6879607">
+		<when>Wed., July 18, 9:30 p.m.</when>
+	</event>
+	<event id="6879213">
+		<when>Wed., July 18, 10 p.m.</when>
+	</event>
+	<event id="6786008">
+		<when>Thu., July 19, 6 p.m.</when>
+	</event>
+	<event id="930294">
+		<when>Wednesdays, 9 p.m.</when>
+	</event>
+	<event id="6762551">
+		<when>Thu., July 19, 6:30 p.m.</when>
+	</event>
+	<event id="6878919">
+		<when>Thu., July 19, 6:30 p.m.</when>
+	</event>
+	<event id="6668376">
+		<when>Thu., July 19, 6:30 p.m.</when>
+	</event>
+	<event id="841845">
+		<when>Wednesdays, 9 PM</when>
+	</event>
+	<event id="6752249">
+		<when>Thu., July 19, 7-9 p.m.</when>
+	</event>
+	<event id="5825939">
+		<when>Thu., July 19, 7 p.m.</when>
+	</event>
+	<event id="6878271">
+		<when>Thu., July 19, 7:30 p.m.</when>
+	</event>
+	<event id="6751407">
+		<when>Thu., July 19, 7:30 p.m.</when>
+	</event>
+	<event id="6562853">
+		<when>Thu., July 19, 8 p.m.</when>
+	</event>
+	<event id="6268072">
+		<when>Thu., July 19, 9 p.m.</when>
+	</event>
+	<event id="843130">
+		<when>Wednesdays, 9 p.m.</when>
+	</event>
+	<event id="6754109">
+		<when>Through 7/19:</when>
+	</event>
+	<event id="6754110">
+		<when>Through 7/19:</when>
+	</event>
+	<event id="6168652">
+		<when>Through 7/19:</when>
+	</event>
+	<event id="6786009">
+		<when>Fri., July 20, 6-11 p.m.</when>
+	</event>
+	<event id="6887575">
+		<when>Fri., July 20</when>
+	</event>
+	<event id="850685">
+		<when>Wednesdays, 9 p.m.</when>
+	</event>
+	<event id="839625">
+		<when>Wednesdays, 9:30 p.m.</when>
+	</event>
+	<event id="6887125">
+		<when>Fri., July 20, 6 p.m.</when>
+	</event>
+	<event id="6887113">
+		<when>Fri., July 20, 7 p.m.</when>
+	</event>
+	<event id="6783907">
+		<when>Fri., July 20, 7 p.m.</when>
+	</event>
+	<event id="840209">
+		<when>Wednesdays, 9:30 p.m.</when>
+	</event>
+	<event id="6802763">
+		<when>Fri., July 20, 7 p.m.</when>
+	</event>
+	<event id="6079945">
+		<when>Fri., July 20, 7:30 p.m.</when>
+	</event>
+	<event id="6183792">
+		<when>Fri., July 20, 8 p.m.</when>
+	</event>
+	<event id="6466777">
+		<when>Fri., July 20, 8 p.m.</when>
+	</event>
+	<event id="6564749">
+		<when>Fri., July 20, 8:30 p.m.</when>
+	</event>
+	<event id="839696">
+		<when>Wednesdays, 10 p.m.</when>
+	</event>
+	<event id="6460298">
+		<when>Fri., July 20, 10 p.m.</when>
+	</event>
+	<event id="6274827">
+		<when>Fri., July 20, 10 p.m.</when>
+	</event>
+	<event id="6674941">
+		<when>Fri., July 20, 10 p.m.</when>
+	</event>
+	<event id="6674513">
+		<when>Fri., July 20, 10 p.m.</when>
+	</event>
+	<event id="839510">
+		<when>Wednesdays, 10 p.m.</when>
+	</event>
+	<event id="6701189">
+		<when>Through 7/20:</when>
+	</event>
+	<event id="6783440">
+		<when>Through 7/20:</when>
+	</event>
+	<event id="6791943">
+		<when>10 AM</when>
+	</event>
+	<event id="6621298">
+		<when>Through 7/21:</when>
+	</event>
+	<event id="6762582">
+		<when>Through 7/21:</when>
+	</event>
+	<event id="839647">
+		<when>Wednesdays, 10 p.m.</when>
+	</event>
+	<event id="6663902">
+		<when>Sat., July 21, 12:30-2:30 p.m.</when>
+	</event>
+	<event id="6783903">
+		<when>Sat., July 21, 1 p.m.</when>
+	</event>
+	<event id="6029607">
+		<when>Sat., July 21, 1:30 p.m.</when>
+	</event>
+	<event id="5980903">
+		<when>Sat., July 21, 6 p.m.</when>
+	</event>
+	<event id="6887116">
+		<when>Sat., July 21, 7 p.m.</when>
+	</event>
+	<event id="5980633">
+		<when>Sat., July 21, 7:30 p.m.</when>
+	</event>
+	<event id="840191">
+		<when>Wednesdays, 10 p.m.</when>
+	</event>
+	<event id="6751410">
+		<when>Sat., July 21, 7:30 p.m.</when>
+	</event>
+	<event id="6889143">
+		<when>Sat., July 21, 8 p.m.</when>
+	</event>
+	<event id="6029316">
+		<when>Sat., July 21, 8 p.m.</when>
+	</event>
+	<event id="6793952">
+		<when>Sat., July 21, 9 p.m.</when>
+	</event>
+	<event id="841538">
+		<when>Wednesdays, 10 p.m.</when>
+	</event>
+	<event id="6271779">
+		<when>Sat., July 21, 10 p.m.</when>
+	</event>
+	<event id="6274838">
+		<when>Sat., July 21, 10 p.m.</when>
+	</event>
+	<event id="6878582">
+		<when>Through 7/21: Wed-Fri 8 and 10 PM, Sat 6, 8, and 10 PM</when>
+	</event>
+	<event id="6666473">
+		<when>Through 7/21:</when>
+	</event>
+	<event id="839170">
+		<when>Wednesdays, 11 p.m.</when>
+	</event>
+	<event id="6783442">
+		<when>Through 7/21:</when>
+	</event>
+	<event id="6666472">
+		<when>Through 7/21:</when>
+	</event>
+	<event id="6783441">
+		<when>Through 7/21:</when>
+	</event>
+	<event id="6703201">
+		<when>Through 7/21:</when>
+	</event>
+	<event id="861628">
+		<when>Wednesdays, 11 p.m.</when>
+	</event>
+	<event id="6783443">
+		<when>Through 7/21:</when>
+	</event>
+	<event id="6392230">
+		<when>Through 7/21: Sat 10 PM.</when>
+	</event>
+	<event id="6612440">
+		<when>Through 7/21:</when>
+	</event>
+	<event id="6692338">
+		<when>Through 7/22: Fri-Sun 8 PM</when>
+	</event>
+	<event id="6724926">
+		<when>Through 7/22: Thu-Sat 8 PM, Sun 3 PM,</when>
+	</event>
+	<event id="6792061">
+		<when>6:30 AM</when>
+	</event>
+	<event id="6887118">
+		<when>Sun., July 22, 1:30-3:30 p.m.</when>
+	</event>
+	<event id="6751483">
+		<when>Sun., July 22, 3-6 p.m.</when>
+	</event>
+	<event id="6675396">
+		<when>Sun., July 22, 6 &amp;amp; 9 p.m.</when>
+	</event>
+	<event id="6563512">
+		<when>Sun., July 22, 6:30 p.m.</when>
+	</event>
+	<event id="1960164">
+		<when>Open run: Wed</when>
+	</event>
+	<event id="6485992">
+		<when>8/24-8/26, Fri-Sun</when>
+	</event>
+	<event id="6124550">
+		<when>Through 6/23: Thu-Sat 7:30 PM. 7/12-7/27: Thu-Fri 7:30 PM</when>
+	</event>
+	<event id="6173823">
+		<when>Through 6/27: Wed 7:30 PM. Also 7/14-7/28, Sat 7:30 PM.</when>
+	</event>
+	<event id="6249227">
+		<when>Through 6/30: Thu-Sat 8 PM, Sun 3 PM. Also 7/6-7/15: Fri-Sat 8 PM, Sun 3 PM</when>
+	</event>
+	<event id="6811961">
+		<when>Fri., July 6, 6-9 p.m.</when>
+	</event>
+	<event id="6184224">
+		<when>Fri., July 6, 8 p.m.</when>
+	</event>
+	<event id="6274819">
+		<when>Fri., July 6, 10 p.m.</when>
+	</event>
+	<event id="6793096">
+		<when>Fri., July 6, 10 p.m.</when>
+	</event>
+	<event id="6812388">
+		<when>Fri., July 6, 6 p.m.</when>
+	</event>
+	<event id="6811020">
+		<when>Fri., July 6, 6 p.m.</when>
+	</event>
+	<event id="5878150">
+		<when>Fri., July 6, 7:30 p.m.</when>
+	</event>
+	<event id="5098778">
+		<when>Fri., July 6, 8 p.m.</when>
+	</event>
+	<event id="6810181">
+		<when>Fri., July 6, 8 p.m.</when>
+	</event>
+	<event id="6811942">
+		<when>Fri., July 6, 8 p.m.</when>
+	</event>
+	<event id="6183783">
+		<when>Fri., July 6, 8 p.m.</when>
+	</event>
+	<event id="5629389">
+		<when>Fri., July 6, 8 p.m.</when>
+	</event>
+	<event id="6819254">
+		<when>Fri., July 6, 8:15 p.m.</when>
+	</event>
+	<event id="6811900">
+		<when>Fri., July 6, 8:30 p.m.</when>
+	</event>
+	<event id="6811935">
+		<when>Fri., July 6, 9 p.m.</when>
+	</event>
+	<event id="6811007">
+		<when>Fri., July 6, 9 p.m.</when>
+	</event>
+	<event id="6810167">
+		<when>Fri., July 6, 9 p.m.</when>
+	</event>
+	<event id="6811514">
+		<when>Fri., July 6, 9 p.m.</when>
+	</event>
+	<event id="6811463">
+		<when>Fri., July 6, 9 p.m.</when>
+	</event>
+	<event id="6723723">
+		<when>Fri., July 6, 9 p.m.</when>
+	</event>
+	<event id="6368900">
+		<when>Fri., July 6, 9 p.m.</when>
+	</event>
+	<event id="6810529">
+		<when>Fri., July 6, 9 p.m.</when>
+	</event>
+	<event id="6811522">
+		<when>Fri., July 6, 9:30 p.m.</when>
+	</event>
+	<event id="6811957">
+		<when>Fri., July 6, 9:30 p.m.</when>
+	</event>
+	<event id="6812438">
+		<when>Fri., July 6, 10 p.m.</when>
+	</event>
+	<event id="6811645">
+		<when>Fri., July 6, 10 p.m.</when>
+	</event>
+	<event id="6810379">
+		<when>Fri., July 6, 10 p.m.</when>
+	</event>
+	<event id="6809863">
+		<when>Fri., July 6, 10 p.m.</when>
+	</event>
+	<event id="6081228">
+		<when>Fri., July 6, 10 p.m.</when>
+	</event>
+	<event id="6809791">
+		<when>Fri., July 6, 10 p.m.</when>
+	</event>
+	<event id="5917222">
+		<when>Through 7/6: Fri midnight</when>
+	</event>
+	<event id="6315231">
+		<when>Through 7/6:</when>
+	</event>
+	<event id="6316207">
+		<when>Through 7/6: Mon-Sun 10 AM-6 PM</when>
+	</event>
+	<event id="6812363">
+		<when>Sat., July 7</when>
+	</event>
+	<event id="6785993">
+		<when>Sat., July 7, 7 a.m.-8 p.m.</when>
+	</event>
+	<event id="6621706">
+		<when>Sat., July 7, 1 p.m.</when>
+	</event>
+	<event id="6184555">
+		<when>Sat., July 7, 9 p.m.</when>
+	</event>
+	<event id="6812169">
+		<when>Sat., July 7, 9:30 p.m.</when>
+	</event>
+	<event id="6809788">
+		<when>Through 9/2: Wed-Thu 7:30 PM, Fri-Sat 8 PM, Sun 3 PM, also Tue 7/10, 7:30 PM</when>
+	</event>
+	<event id="6531568">
+		<when>Through 6/2:</when>
+	</event>
+	<event id="6392935">
+		<when>Through 9/3: Wed 2, 6, and 8 PM; Thu 2 and 8 PM; Fri 2, 7, and 9 PM; Sat 2, 6, and 8 PM; Sun 2 and 4 PM</when>
+	</event>
+	<event id="5800716">
+		<when>Through 9/3:</when>
+	</event>
+	<event id="6216129">
+		<when>Through 9/3:</when>
+	</event>
+	<event id="6792332">
+		<when>Tue., Sept. 4, 8 p.m.</when>
+	</event>
+	<event id="6613339">
+		<when>Through 9/4: Mon-Fri 11 AM-4 PM</when>
+	</event>
+	<event id="6674491">
+		<when>Thu., Sept. 6, 7:30 p.m.</when>
+	</event>
+	<event id="6620873">
+		<when>Thu., Sept. 6, 7:30 p.m.</when>
+	</event>
+	<event id="5925208">
+		<when>Fri., Sept. 7, 7 p.m.</when>
+	</event>
+	<event id="6267814">
+		<when>Fri., Sept. 7, 8 &amp;amp; 10 p.m.</when>
+	</event>
+	<event id="6851303">
+		<when>Sun., Aug. 26, 7 p.m.</when>
+	</event>
+	<event id="6215197">
+		<when>6/23-9/8: Sat 8 AM-2 PM</when>
+	</event>
+	<event id="1762195">
+		<when>Open run: Thu 8 PM</when>
+	</event>
+	<event id="838969">
+		<when>Open run: Thu 8:30 PM (sign up by 8:15 PM)</when>
+	</event>
+	<event id="2278939">
+		<when>Open run: second Thursday of the month at 8:30 PM</when>
+	</event>
+	<event id="6216690">
+		<when>Through 8/26:</when>
+	</event>
+	<event id="6751854">
+		<when>Through 8/26: Thu-Sun 11 AM and 2 PM</when>
+	</event>
+	<event id="6488596">
+		<when>8/25-8/26, Sat-Sun 11 AM-7 PM</when>
+	</event>
+	<event id="840721">
+		<when>Thursdays, 9 PM</when>
+	</event>
+	<event id="839583">
+		<when>Thursdays, 9 p.m.</when>
+	</event>
+	<event id="6581026">
+		<when>Through 8/26: Thu-Fri 7 PM, Sat 3 and 7 PM, Sun 3 PM.</when>
+	</event>
+	<event id="842080">
+		<when>Thursdays, 9 p.m.</when>
+	</event>
+	<event id="844585">
+		<when>Thursdays, 9 p.m.</when>
+	</event>
+	<event id="841847">
+		<when>Thursdays, 9 PM</when>
+	</event>
+	<event id="6811332">
+		<when>Through 8/26:</when>
+	</event>
+	<event id="841885">
+		<when>Thursdays, 9 p.m.</when>
+	</event>
+	<event id="6878696">
+		<when>Through 8/26: Fri-Sat 8 PM, Sun 3 PM</when>
+	</event>
+	<event id="6810197">
+		<when>Through 8/26: Wed 1:30 PM, Thu 1:30 and 8 PM, Fri 8:30 PM, Sat 5 and 8:30 PM, Sun 2 and 6 PM</when>
+	</event>
+	<event id="852023">
+		<when>Thursdays, 9 p.m.</when>
+	</event>
+	<event id="929909">
+		<when>Thursdays, 9 p.m.</when>
+	</event>
+	<event id="6751846">
+		<when>Through 8/26: Tue-Fri 7:30 PM, Sat-Sun 3 and 7:30 PM</when>
+	</event>
+	<event id="996341">
+		<when>Thursdays, Fridays, 9 p.m.</when>
+	</event>
+	<event id="6485670">
+		<when>8/25-8/26, Sat-Sun noon-10 PM</when>
+	</event>
+	<event id="6878872">
+		<when>Through 8/26: Thu-Sat 7:30 PM, Sun 2:30 PM</when>
+	</event>
+	<event id="848536">
+		<when>Sundays and Thursdays, 9 PM</when>
+	</event>
+	<event id="840759">
+		<when>Thursdays, 9 PM</when>
+	</event>
+	<event id="6131587">
+		<when>Aug. 25-26, 9 p.m.</when>
+	</event>
+	<event id="6793083">
+		<when>12:15 PM</when>
+	</event>
+	<event id="931369">
+		<when>Thursdays, 9 p.m.</when>
+	</event>
+	<event id="6717460">
+		<when>Tuesdays, 12:15 p.m. Continues through Aug. 28</when>
+	</event>
+	<event id="839676">
+		<when>Thursdays, 9:30 p.m.</when>
+	</event>
+	<event id="852496">
+		<when>Thursdays, 9:30 p.m.</when>
+	</event>
+	<event id="6368524">
+		<when>Tue., Aug. 28, 8 p.m.</when>
+	</event>
+	<event id="6621907">
+		<when>Tue., Aug. 28, 8 p.m.</when>
+	</event>
+	<event id="6786037">
+		<when>Through 8/28: Tue 6-8 PM</when>
+	</event>
+	<event id="840128">
+		<when>Thursdays, 10 p.m.</when>
+	</event>
+	<event id="6467177">
+		<when>Wed., Aug. 29, 7:30 p.m.</when>
+	</event>
+	<event id="843961">
+		<when>Thursdays, 10 p.m.</when>
+	</event>
+	<event id="840100">
+		<when>Thursdays, 10 p.m.</when>
+	</event>
+	<event id="6851263">
+		<when>Wed., Aug. 29, 8 p.m.</when>
+	</event>
+	<event id="6267732">
+		<when>Thu., Aug. 30, 8 p.m.</when>
+	</event>
+	<event id="839175">
+		<when>Thursdays, 10 p.m.</when>
+	</event>
+	<event id="6786443">
+		<when>Through 8/30: various times</when>
+	</event>
+	<event id="6692395">
+		<when>Through 8/31: Fri 10 PM</when>
+	</event>
+	<event id="6267752">
+		<when>Fri., Aug. 31, 8 p.m.</when>
+	</event>
+	<event id="6532309">
+		<when>Through 8/31:</when>
+	</event>
+	<event id="6172870">
+		<when>Through 8/31:</when>
+	</event>
+	<event id="6293692">
+		<when>Through 8/31:</when>
+	</event>
+	<event id="6793089">
+		<when>Aug. 31-Sept. 1</when>
+	</event>
+	<event id="6130889">
+		<when>Sat., Sept. 1, 7 p.m.</when>
+	</event>
+	<event id="6466239">
+		<when>Sat., Sept. 1, 7:30 p.m.</when>
+	</event>
+	<event id="861633">
+		<when/>
+	</event>
+	<event id="6792591">
+		<when>Sat., Sept. 1, 8 p.m.</when>
+	</event>
+	<event id="6531282">
+		<when>Through 9/1: Sat 11 AM</when>
+	</event>
+	<event id="928382">
+		<when>Thursdays, 10 p.m.</when>
+	</event>
+	<event id="839724">
+		<when>Thursdays, 10 p.m.</when>
+	</event>
+	<event id="6886767">
+		<when>Through 9/1:</when>
+	</event>
+	<event id="930242">
+		<when>Thursdays, 10 p.m.</when>
+	</event>
+	<event id="840762">
+		<when>Thursdays, 10 PM</when>
+	</event>
+	<event id="854762">
+		<when>Thursdays, 10 p.m.</when>
+	</event>
+	<event id="6886780">
+		<when>Through 9/1:</when>
+	</event>
+	<event id="6886752">
+		<when>Through 9/1:</when>
+	</event>
+	<event id="2649377">
+		<when>Reception Sat 11/6. 11/6-9/1/12.</when>
+	</event>
+	<event id="6621913">
+		<when>Aug. 31-Sept. 1, 8 p.m.</when>
+	</event>
+	<event id="5779043">
+		<when>Through 9/2: Thu 7:30 PM, Fri 8 PM, Sat 2 and 8 PM, Sun 1 and 4 PM, Wed 2 and 7:30 PM</when>
+	</event>
+	<event id="839512">
+		<when>Thursdays, 10 p.m.</when>
+	</event>
+	<event id="6366903">
+		<when>Sun., Sept. 2, 7 p.m.</when>
+	</event>
+	<event id="839140">
+		<when>Open run: Thu 10:30 PM</when>
+	</event>
+	<event id="839173">
+		<when>Thursdays, 11 p.m.</when>
+	</event>
+	<event id="6724533">
+		<when>Sun., Sept. 2, 8 p.m.</when>
+	</event>
+	<event id="6270877">
+		<when>8/30-9/2, Thu noon and 6:30 PM, Fri 6:30-9:30 PM, Sat-Sun 11 AM-9:30 PM</when>
+	</event>
+	<event id="6783934">
+		<when>Through Sept. 2</when>
+	</event>
+	<event id="1342692">
+		<when>Open run: last Fri every month, 10 PM</when>
+	</event>
+	<event id="6270666">
+		<when>8/31-9/2, Fri 3-10 PM, Sat-Sun noon-10 PM</when>
+	</event>
+	<event id="1162873">
+		<when>Open run: Fri-Sat 8 and 10 PM</when>
+	</event>
+	<event id="6271654">
+		<when>Aug. 31-Sept. 2</when>
+	</event>
+	<event id="6314679">
+		<when>Open run: third Fri of each month, 7:30 PM</when>
+	</event>
+	<event id="6505596">
+		<when>Thu 10:30 PM and midnight</when>
+	</event>
+	<event id="931399">
+		<when>Open run: Wed-Thurs 8:30 PM, Fri-Sat 8:30 and 10:30 PM</when>
+	</event>
+	<event id="5200968">
+		<when>Open run: Thu 8:30 and 10 PM</when>
+	</event>
+	<event id="6762208">
+		<when>Fridays</when>
+	</event>
+	<event id="3172352">
+		<when>Open run: Fri 11 PM,</when>
+	</event>
+	<event id="2530109">
+		<when>Open run: Thu 6 PM</when>
+	</event>
+	<event id="4544127">
+		<when>Fri 9/9, 9 PM.</when>
+	</event>
+	<event id="931407">
+		<when>Open run: Thu-Fri 9 PM</when>
+	</event>
+	<event id="5779045">
+		<when>Through 3/18: Fri 8 PM, Sat 4 and 8 PM, Sun 3 PM</when>
+	</event>
+	<event id="4544761">
+		<when>Open run: Fri-Sat 10:30 PM</when>
+	</event>
+	<event id="839359">
+		<when>Open run: Fri-Sat 11:30 PM, Sun 7 PM,</when>
+	</event>
+	<event id="838247">
+		<when>Fridays</when>
+	</event>
+	<event id="839965">
+		<when>Wednesdays-Fridays, 1 p.m., Saturdays, Sundays, 11 a.m., 12, 1 &amp;amp; 2 p.m. and Tuesdays, 1 &amp;amp; 6 p.m.</when>
+	</event>
+	<event id="839939">
+		<when>Fridays, 2-2:30 p.m., Thursdays, Fridays, 5:30-6 &amp;amp; 7-7:30 p.m. and Wednesdays, 12-12:30 p.m.</when>
+	</event>
+	<event id="929718">
+		<when>Fridays, 5 p.m.</when>
+	</event>
+	<event id="850350">
+		<when>Second Friday of every month, 5-9 p.m.</when>
+	</event>
+	<event id="839457">
+		<when>Fridays, 5:30 p.m.</when>
+	</event>
+	<event id="1016774">
+		<when>Fridays, 6 p.m.</when>
+	</event>
+	<event id="844068">
+		<when>Second Friday of every month, 6-10 p.m.</when>
+	</event>
+	<event id="840210">
+		<when>Fridays, 6 p.m.</when>
+	</event>
+	<event id="1594509">
+		<when>Fridays, 7 p.m.</when>
+	</event>
+	<event id="6531900">
+		<when>Fridays, 7:30 p.m.</when>
+	</event>
+	<event id="6029318">
+		<when>Sun., July 22, 7 p.m.</when>
+	</event>
+	<event id="6466847">
+		<when>Sun., July 22, 7:30 p.m.</when>
+	</event>
+	<event id="6878875">
+		<when>Through 7/22: Sat 7 PM, Sun 3 PM</when>
+	</event>
+	<event id="6269889">
+		<when>7/20-7/22, Fri 4-11 PM, Sat-Sun noon-11 PM</when>
+	</event>
+	<event id="6735250">
+		<when>July 20-22</when>
+	</event>
+	<event id="6468578">
+		<when>7/21-7/22, Sat 11 AM-10 PM, Sun 11 AM-9 PM</when>
+	</event>
+	<event id="6676980">
+		<when>July 20-22</when>
+	</event>
+	<event id="5918705">
+		<when>Through 7/22: Sun 2:30 PM</when>
+	</event>
+	<event id="6878911">
+		<when>Through 7/22: Thu-Sat 7:30 PM, Sun 2 PM</when>
+	</event>
+	<event id="6460276">
+		<when>July 21-22, 12:15 p.m.</when>
+	</event>
+	<event id="6762245">
+		<when>Through 7/23: Mon 10:30 PM</when>
+	</event>
+	<event id="6133218">
+		<when>Mon., July 23, 6:30 p.m.</when>
+	</event>
+	<event id="6743229">
+		<when>Mon., July 23, 7 p.m.</when>
+	</event>
+	<event id="6887123">
+		<when>Mon., July 23, 7-9 p.m.</when>
+	</event>
+	<event id="6792285">
+		<when>8 PM</when>
+	</event>
+	<event id="6368731">
+		<when>Tue., July 24, 6:30 p.m.</when>
+	</event>
+	<event id="6887129">
+		<when>Tue., July 24, 7 p.m.</when>
+	</event>
+	<event id="6621355">
+		<when>Tue., July 24, 7 p.m.</when>
+	</event>
+	<event id="6723741">
+		<when>Tue., July 24, 9 p.m.</when>
+	</event>
+	<event id="6088925">
+		<when>Through 7/24:</when>
+	</event>
+	<event id="6888590">
+		<when>Open run</when>
+	</event>
+	<event id="6675403">
+		<when>Wed., July 25, 6 p.m.</when>
+	</event>
+	<event id="6185080">
+		<when>Wed., July 25, 8 p.m.</when>
+	</event>
+	<event id="6793084">
+		<when>Wed., July 25, 9 p.m.</when>
+	</event>
+	<event id="6533019">
+		<when>Through 7/25:</when>
+	</event>
+	<event id="6801532">
+		<when>Thu., July 26, 9 p.m.</when>
+	</event>
+	<event id="6743241">
+		<when>Thu., July 26, 6 p.m.</when>
+	</event>
+	<event id="5924538">
+		<when>Thu., July 26, 6:30 p.m.</when>
+	</event>
+	<event id="6460296">
+		<when>Thu., July 26, 7 p.m.</when>
+	</event>
+	<event id="6889167">
+		<when>Thu., July 26, 7 p.m.</when>
+	</event>
+	<event id="5924553">
+		<when>Thu., July 26, 8 p.m.</when>
+	</event>
+	<event id="6029325">
+		<when>Thu., July 26, 8 p.m.</when>
+	</event>
+	<event id="6462106">
+		<when>Thu., July 26, 9 p.m.</when>
+	</event>
+	<event id="6369077">
+		<when>Thu., July 26, 10 p.m.</when>
+	</event>
+	<event id="6810176">
+		<when>Through 7/26:</when>
+	</event>
+	<event id="6802327">
+		<when>Through 7/26:</when>
+	</event>
+	<event id="6810183">
+		<when>Through 7/26: 8 PM</when>
+	</event>
+	<event id="6080231">
+		<when>Fri., July 27, 5:30 p.m.</when>
+	</event>
+	<event id="6743249">
+		<when>Fri., July 27, 7 p.m.</when>
+	</event>
+	<event id="6079960">
+		<when>Fri., July 27, 7 p.m.</when>
+	</event>
+	<event id="5777909">
+		<when>Fri., July 27, 7:30 p.m.</when>
+	</event>
+	<event id="6186372">
+		<when>Fri., July 27, 7:30 p.m.</when>
+	</event>
+	<event id="6267379">
+		<when>Fri., July 27, 7:30 p.m.</when>
+	</event>
+	<event id="6029327">
+		<when>Fri., July 27, 8 p.m.</when>
+	</event>
+	<event id="6266871">
+		<when>Fri., July 27, 8 p.m.</when>
+	</event>
+	<event id="6370415">
+		<when>Fri., July 27, 8 p.m.</when>
+	</event>
+	<event id="6367396">
+		<when>Fri., July 27, 9 p.m.</when>
+	</event>
+	<event id="6793953">
+		<when>Fri., July 27, 9 p.m.</when>
+	</event>
+	<event id="6564744">
+		<when>Fri., July 27, 9:30 p.m.</when>
+	</event>
+	<event id="6851722">
+		<when>Fri., July 27, 10 p.m.</when>
+	</event>
+	<event id="6184615">
+		<when>Fri., July 27, 10 p.m.</when>
+	</event>
+	<event id="6185148">
+		<when>Fri., July 27, 10 p.m.</when>
+	</event>
+	<event id="6889166">
+		<when>Sat., July 28, 12 p.m.</when>
+	</event>
+	<event id="6889168">
+		<when>Sat., July 28, 4 p.m.</when>
+	</event>
+	<event id="6460024">
+		<when>Sat., July 28, 7 p.m.</when>
+	</event>
+	<event id="841839">
+		<when>Fridays and Saturdays, 9 PM</when>
+	</event>
+	<event id="6564748">
+		<when>Sat., July 28, 9:30 p.m.</when>
+	</event>
+	<event id="6367328">
+		<when>Sat., July 28, 10 p.m.</when>
+	</event>
+	<event id="5981562">
+		<when>Sat., July 28, 10:30 p.m.</when>
+	</event>
+	<event id="6879874">
+		<when>Through 7/28:</when>
+	</event>
+	<event id="6666471">
+		<when>Through 7/28: Sat 10:30 PM</when>
+	</event>
+	<event id="6580553">
+		<when>Through 7/28: Fri-Sat, 11 PM.</when>
+	</event>
+	<event id="6762247">
+		<when>Through 7/28:</when>
+	</event>
+	<event id="6751397">
+		<when>Through 7/28: Sat 9 PM</when>
+	</event>
+	<event id="6761802">
+		<when>Through July 28</when>
+	</event>
+	<event id="6700785">
+		<when>Through 7/28:</when>
+	</event>
+	<event id="6466830">
+		<when>July 27-28, 7:30 p.m.</when>
+	</event>
+	<event id="6792314">
+		<when>Through 7/29: Fri-Sat 11 AM-10 PM, Sun 11 AM-5 PM</when>
+	</event>
+	<event id="6751555">
+		<when>Sun., July 29, 3-6 p.m.</when>
+	</event>
+	<event id="6564733">
+		<when>Sat., Aug. 25, 10 p.m.</when>
+	</event>
+	<event id="6887208">
+		<when>Through 8/25:</when>
+	</event>
+	<event id="6793658">
+		<when>Aug. 20-25</when>
+	</event>
+	<event id="6621291">
+		<when>Through 8/25:</when>
+	</event>
+	<event id="6887132">
+		<when>Through 8/25:</when>
+	</event>
+	<event id="6621248">
+		<when>Through 8/25:</when>
+	</event>
+	<event id="6887209">
+		<when>Through 8/25:</when>
+	</event>
+	<event id="6887147">
+		<when>Through 8/25:</when>
+	</event>
+	<event id="6878841">
+		<when>Through 8/25: Thu-Sat 7:30 PM, Sun 3 PM</when>
+	</event>
+	<event id="6621263">
+		<when>Through 8/25:</when>
+	</event>
+	<event id="6621296">
+		<when>Through 8/25:</when>
+	</event>
+	<event id="6621899">
+		<when>Aug. 24-25, 8 p.m.</when>
+	</event>
+	<event id="6786509">
+		<when>Aug. 24-26</when>
+	</event>
+	<event id="6562209">
+		<when>Sun., Aug. 26, 2 p.m.</when>
+	</event>
+	<event id="6723334">
+		<when>Sun., Aug. 26, 6 p.m.</when>
+	</event>
+	<event id="6886747">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="6878560">
+		<when>Through 8/18: Sat 8 PM</when>
+	</event>
+	<event id="6887066">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="6511852">
+		<when>Through 8/19: Wed 7:30 PM, Thu 3 and 7:30 PM, Fri 7:30 PM, Sat 3 and 7:30 PM, Sun 3 and 7:30 PM</when>
+	</event>
+	<event id="6852174">
+		<when>Through 8/19: Wed 1 and 8 PM, Thu-Fri 8 PM, Sat 4:30 and 8 PM, Sun 1 and 5 PM,</when>
+	</event>
+	<event id="6786442">
+		<when>Through 8/19: 7 AM-midnight</when>
+	</event>
+	<event id="6786049">
+		<when>Through 8/19: 8 AM-9:30 PM, Sat 6:30 AM-9:30 PM</when>
+	</event>
+	<event id="6184229">
+		<when>Sun., Aug. 19, 7 p.m.</when>
+	</event>
+	<event id="6470523">
+		<when>8/18-8/19, Sat-Sun</when>
+	</event>
+	<event id="6794522">
+		<when>Through 8/19:</when>
+	</event>
+	<event id="6887128">
+		<when>Through 8/19: Thu-Fri 8 PM, Sat 5 and 8 PM</when>
+	</event>
+	<event id="6216385">
+		<when>Through 8/19:</when>
+	</event>
+	<event id="6470464">
+		<when>8/17-8/19, Fri 6-10 PM, Sat-Sun noon-9 PM</when>
+	</event>
+	<event id="6249897">
+		<when>Through 8/19: Wed-Thu 7:30 PM, Fri 8 PM, Sat 3 and 8 PM, Sun 3 PM</when>
+	</event>
+	<event id="6878579">
+		<when>Through 8/19: Wed 8:15 PM, Fri-Sun 8:15 PM</when>
+	</event>
+	<event id="6470673">
+		<when>8/18-8/19, Sat noon-10 PM, Sun 11 AM-9 PM</when>
+	</event>
+	<event id="6157386">
+		<when>Through Aug. 19</when>
+	</event>
+	<event id="6531926">
+		<when>Through 8/20:</when>
+	</event>
+	<event id="6367258">
+		<when>Tue., Aug. 21, 6:30 p.m.</when>
+	</event>
+	<event id="5924883">
+		<when>Tue., Aug. 21, 7 p.m.</when>
+	</event>
+	<event id="6792346">
+		<when>Tue., Aug. 21, 8 p.m.</when>
+	</event>
+	<event id="6674567">
+		<when>Wed., Aug. 22, 2 p.m.</when>
+	</event>
+	<event id="6183739">
+		<when>Wed., Aug. 22, 6:30 p.m.</when>
+	</event>
+	<event id="6029612">
+		<when>Wed., Aug. 22, 7:30 p.m.</when>
+	</event>
+	<event id="6562215">
+		<when>Wed., Aug. 22, 8 p.m.</when>
+	</event>
+	<event id="6562222">
+		<when>Wed., Aug. 22, 8 p.m.</when>
+	</event>
+	<event id="838987">
+		<when>Open run: Thu 7:30 PM, Fri 8 and 10:15 PM, Sat 7 and 9:15 PM, Sun 7 PM</when>
+	</event>
+	<event id="6467159">
+		<when>Sat., Aug. 25, 7:30 p.m.</when>
+	</event>
+	<event id="6272172">
+		<when>Sat., Aug. 25, 8 p.m.</when>
+	</event>
+	<event id="5515164">
+		<when>Open run: Thu 9 PM</when>
+	</event>
+	<event id="6674514">
+		<when>Sat., Aug. 25, 8 p.m.</when>
+	</event>
+	<event id="6620935">
+		<when>Sat., Aug. 25, 9 p.m.</when>
+	</event>
+	<event id="839372">
+		<when>Open run: Fri 7:30 PM,</when>
+	</event>
+	<event id="843303">
+		<when>Second Friday of every month, 8 p.m.-12 a.m.</when>
+	</event>
+	<event id="839261">
+		<when>Open run: Fri 8 PM</when>
+	</event>
+	<event id="852420">
+		<when>Fridays, 8 p.m.</when>
+	</event>
+	<event id="840225">
+		<when>Fridays and Saturdays, 8 PM</when>
+	</event>
+	<event id="6639830">
+		<when>Last Friday of every month, 8 p.m.</when>
+	</event>
+	<event id="839699">
+		<when>Fridays, 8 p.m.</when>
+	</event>
+	<event id="857615">
+		<when>Fridays, 8:30 p.m.</when>
+	</event>
+	<event id="6751455">
+		<when>Last Friday of every month, 8:30 p.m.</when>
+	</event>
+	<event id="852934">
+		<when>Fridays, 8:30 p.m.</when>
+	</event>
+	<event id="860587">
+		<when>Fridays, 9 p.m.</when>
+	</event>
+	<event id="852990">
+		<when>Fridays, 9 p.m.</when>
+	</event>
+	<event id="841694">
+		<when>Fridays, 9 PM</when>
+	</event>
+	<event id="840788">
+		<when>Fridays, 9 PM</when>
+	</event>
+	<event id="841886">
+		<when>Fridays, 9 p.m.</when>
+	</event>
+	<event id="5346747">
+		<when>Fridays, 9 p.m.</when>
+	</event>
+	<event id="1151876">
+		<when>Fridays, 9 p.m.</when>
+	</event>
+	<event id="929692">
+		<when>Fridays, 9 p.m.</when>
+	</event>
+	<event id="931370">
+		<when>Fridays, 9 p.m.</when>
+	</event>
+	<event id="928996">
+		<when>Tuesdays and Fridays, 9 PM</when>
+	</event>
+	<event id="839690">
+		<when>Fridays, 9 p.m.</when>
+	</event>
+	<event id="840104">
+		<when>Fridays, 9 p.m.</when>
+	</event>
+	<event id="929910">
+		<when>Fridays, 9 p.m.</when>
+	</event>
+	<event id="1288751">
+		<when>Fridays, 9 p.m.</when>
+	</event>
+	<event id="842082">
+		<when>Fridays, 9 p.m.</when>
+	</event>
+	<event id="839298">
+		<when>Open run: Fri 10:30 PM</when>
+	</event>
+	<event id="5346754">
+		<when>Open Run. Fri 10:30 PM</when>
+	</event>
+	<event id="6531917">
+		<when>Through 7/27: Fri 11:59 PM,</when>
+	</event>
+	<event id="5641625">
+		<when>Ongoing: Last Sat of month, 8:30 PM</when>
+	</event>
+	<event id="839365">
+		<when>Open run: Thu 6 PM, Fri 7 PM, Sat 6 PM, Sun 5:30 PM</when>
+	</event>
+	<event id="6622490">
+		<when>Fri., Aug. 3, 9:30 p.m.</when>
+	</event>
+	<event id="6675752">
+		<when>Fri., Aug. 3, 10 p.m.</when>
+	</event>
+	<event id="6794450">
+		<when>Open run: Tue-Thu 8 PM, Fri-Sat 8 and 11 PM, Sun 7 PM</when>
+	</event>
+	<event id="6675775">
+		<when>Fri., Aug. 3, 10 p.m.</when>
+	</event>
+	<event id="6674957">
+		<when>Fri., Aug. 3, 10:30 p.m.</when>
+	</event>
+	<event id="6674866">
+		<when>Fri., Aug. 3, 11 p.m.</when>
+	</event>
+	<event id="6674522">
+		<when>Fri., Aug. 3, 11 p.m.</when>
+	</event>
+	<event id="6676737">
+		<when>Fri., Aug. 3, 11 p.m.</when>
+	</event>
+	<event id="6674571">
+		<when>Fri., Aug. 3, 11 p.m.</when>
+	</event>
+	<event id="6675044">
+		<when>Fri., Aug. 3, 11 p.m.</when>
+	</event>
+	<event id="6674531">
+		<when>Fri., Aug. 3, 11 p.m.</when>
+	</event>
+	<event id="6802751">
+		<when>Through 8/3:</when>
+	</event>
+	<event id="6886793">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="6886787">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="6700860">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="6886790">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="6887114">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="6700859">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="6878876">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="6878916">
+		<when>Through 8/18: Thu-Sat 8 PM</when>
+	</event>
+	<event id="6886826">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="6886792">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="6612402">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="6878880">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="6809802">
+		<when>Through 8/18: Wed-Sat 10 AM</when>
+	</event>
+	<event id="6886824">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="6612404">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="6733363">
+		<when>Sat., Aug. 11, 9 p.m.</when>
+	</event>
+	<event id="6620863">
+		<when>Through 8/11:</when>
+	</event>
+	<event id="6685810">
+		<when>Through 8/11:</when>
+	</event>
+	<event id="6695134">
+		<when>Through 8/11: Wed-Sun, various times</when>
+	</event>
+	<event id="6751417">
+		<when>Through 8/11: Fri-Sat 8 and 10 PM.</when>
+	</event>
+	<event id="6878586">
+		<when>Through 8/11: Thu-Sat 7:30 PM</when>
+	</event>
+	<event id="6124553">
+		<when>Through 8/12: Tue-Wed 7:30 PM, Thu-Fri 8 PM, Sat 4 and 8 PM, Sun 2 and 6 PM, also 5/16 and 6/27, 2 PM, no 6 PM show 5/20 or 7/1</when>
+	</event>
+	<event id="6792662">
+		<when>Aug. 9-12</when>
+	</event>
+	<event id="6029629">
+		<when>Sun., Aug. 12, 8:30 p.m.</when>
+	</event>
+	<event id="6878562">
+		<when>Through 8/12: Thu-Sat 7:30 PM, Sun 2:30 PM</when>
+	</event>
+	<event id="6469224">
+		<when>8/11-8/12, Sat-Sun 11 AM-4 PM</when>
+	</event>
+	<event id="838292">
+		<when>Mondays-Fridays, 2 p.m. and Mondays-Saturdays, 11 a.m.</when>
+	</event>
+	<event id="6674524">
+		<when>Sun., Aug. 5, 11 p.m.</when>
+	</event>
+	<event id="6620872">
+		<when>Through 8/5:</when>
+	</event>
+	<event id="6700863">
+		<when>Through 8/5:</when>
+	</event>
+	<event id="6886820">
+		<when>Through 8/5:</when>
+	</event>
+	<event id="6751890">
+		<when>Through 8/5: Tue 2 PM, Wed 7 PM, Thu 2 and 7:30 PM, Fri 8 PM, Sat 8 PM, Sun 2 and 7:30 PM</when>
+	</event>
+	<event id="6724550">
+		<when>Through 8/5: Thu-Sat 8 PM, Sun 3 and 7 PM,</when>
+	</event>
+	<event id="6468652">
+		<when>8/4-8/5, Sat-Sun 11 AM-6 PM</when>
+	</event>
+	<event id="6467638">
+		<when>8/4-8/5, Sat-Sun 10 AM-5 PM</when>
+	</event>
+	<event id="6810151">
+		<when>Through 8/5: Thu-Sat 8 PM, Sun 4 PM</when>
+	</event>
+	<event id="6753171">
+		<when>Through 8/5:</when>
+	</event>
+	<event id="6034236">
+		<when>8/3-8/5</when>
+	</event>
+	<event id="5987486">
+		<when>Through 8/5:</when>
+	</event>
+	<event id="4700677">
+		<when>Through 8/5: Sat-Sun 10 AM, also some Fridays</when>
+	</event>
+	<event id="6511152">
+		<when>Through 8/5: Tue-Fri 7:30 PM, Sat 2 and 8 PM, Sun 2 and 7:30 PM</when>
+	</event>
+	<event id="6878550">
+		<when>Through 8/5: Tue-Thu 7:30 PM, Fri 8 PM, Sat 5 and 8 PM, Sun 2 and 6 PM</when>
+	</event>
+	<event id="6470356">
+		<when>8/4-8/5, Sat noon-10 PM, Sun noon-9 PM</when>
+	</event>
+	<event id="6751463">
+		<when>Through 8/5: Sat-Sun 5 PM</when>
+	</event>
+	<event id="6792617">
+		<when>Aug. 4-6</when>
+	</event>
+	<event id="6367548">
+		<when>Mon., Aug. 6, 3:30 p.m.</when>
+	</event>
+	<event id="6700845">
+		<when>Through 8/6:</when>
+	</event>
+	<event id="6783946">
+		<when>Tue., Aug. 7, 7-8:30 p.m.</when>
+	</event>
+	<event id="6367237">
+		<when>Tue., Aug. 7, 7 p.m.</when>
+	</event>
+	<event id="6131192">
+		<when>Tue., Aug. 7, 7:30 p.m.</when>
+	</event>
+	<event id="6366432">
+		<when>Tue., Aug. 7, 8 p.m.</when>
+	</event>
+	<event id="6675440">
+		<when>Tue., Aug. 7, 9 p.m.</when>
+	</event>
+	<event id="6183687">
+		<when>Wed., Aug. 8, 7:30 p.m.</when>
+	</event>
+	<event id="6366490">
+		<when>Wed., Aug. 8, 9 p.m.</when>
+	</event>
+	<event id="5182292">
+		<when>Aug. 7-8, 7 p.m.</when>
+	</event>
+	<event id="6793043">
+		<when>Thu., Aug. 9, 5:30 p.m.</when>
+	</event>
+	<event id="6795499">
+		<when>Thu., Aug. 9, 6:30 p.m.</when>
+	</event>
+	<event id="6562207">
+		<when>Thu., Aug. 9, 8 p.m.</when>
+	</event>
+	<event id="6370461">
+		<when>Thu., Aug. 9, 8:30 p.m.</when>
+	</event>
+	<event id="6564729">
+		<when>Thu., Aug. 9, 9 p.m.</when>
+	</event>
+	<event id="6620905">
+		<when>Through 8/9:</when>
+	</event>
+	<event id="6466360">
+		<when>Fri., Aug. 10, 7 p.m.</when>
+	</event>
+	<event id="6674490">
+		<when>Fri., Aug. 10, 7:30 p.m.</when>
+	</event>
+	<event id="6562208">
+		<when>Fri., Aug. 10, 8 p.m.</when>
+	</event>
+	<event id="6269395">
+		<when>Fri., Aug. 10, 10 p.m.</when>
+	</event>
+	<event id="996340">
+		<when>Thursdays-Saturdays, 5 p.m.</when>
+	</event>
+	<event id="852720">
+		<when>Thursdays, 6 p.m.</when>
+	</event>
+	<event id="845997">
+		<when>Thursdays, 6-8 p.m.</when>
+	</event>
+	<event id="841842">
+		<when>Thursdays, 7 PM</when>
+	</event>
+	<event id="844122">
+		<when>Thursdays, 7 p.m.</when>
+	</event>
+	<event id="1251496">
+		<when>Open run: every third Thursday, 7 PM</when>
+	</event>
+	<event id="1323775">
+		<when>Thursdays, 7:30 p.m.</when>
+	</event>
+	<event id="840008">
+		<when>Open run: Thu 7:30 PM</when>
+	</event>
+	<event id="839300">
+		<when>Open run: Thu 8 PM</when>
+	</event>
+	<event id="856159">
+		<when>Open run: Thu 8 PM, Fri 8 and 10 PM, Sat 6, 8, and 10 PM</when>
+	</event>
+	<event id="1594508">
+		<when>Thursdays, 8 p.m.</when>
+	</event>
+	<event id="839196">
+		<when>Open run: Thu and Sat 8 PM</when>
+	</event>
+	<event id="6661220">
+		<when>Through 7/27:</when>
+	</event>
+	<event id="6409391">
+		<when>Through 7/27:</when>
+	</event>
+	<event id="6810202">
+		<when>Through 7/27: 10 PM</when>
+	</event>
+	<event id="6029611">
+		<when>Sat., July 28, 7 p.m.</when>
+	</event>
+	<event id="6366864">
+		<when>Sat., July 28, 7:30 p.m.</when>
+	</event>
+	<event id="6268112">
+		<when>Sat., July 28, 9 p.m.</when>
+	</event>
+	<event id="6370401">
+		<when>Sat., July 28, 9 p.m.</when>
+	</event>
+	<event id="6621884">
+		<when>Thu., Aug. 23, 8 p.m.</when>
+	</event>
+	<event id="5777854">
+		<when>Thu., Aug. 23, 8 p.m.</when>
+	</event>
+	<event id="6724532">
+		<when>Thu., Aug. 23, 9 p.m.</when>
+	</event>
+	<event id="6130885">
+		<when>Fri., Aug. 24, 6:30 p.m.</when>
+	</event>
+	<event id="6622476">
+		<when>Fri., Aug. 24, 7:30 p.m.</when>
+	</event>
+	<event id="6467165">
+		<when>Fri., Aug. 24, 8 p.m.</when>
+	</event>
+	<event id="6132892">
+		<when>Fri., Aug. 24, 8 p.m.</when>
+	</event>
+	<event id="6267613">
+		<when>Fri., Aug. 24, 8 p.m.</when>
+	</event>
+	<event id="6674933">
+		<when>Fri., Aug. 24, 9:30 p.m.</when>
+	</event>
+	<event id="6733804">
+		<when>Fri., Aug. 24, 9:30 p.m.</when>
+	</event>
+	<event id="6886828">
+		<when>Through 8/24:</when>
+	</event>
+	<event id="6532321">
+		<when>Through 8/24:</when>
+	</event>
+	<event id="6810172">
+		<when>Through 8/24: Fri 11 PM</when>
+	</event>
+	<event id="6216516">
+		<when>Through 8/24:</when>
+	</event>
+	<event id="6786554">
+		<when>Sat., Aug. 25</when>
+	</event>
+	<event id="853170">
+		<when>Fridays, 10 p.m.</when>
+	</event>
+	<event id="839697">
+		<when>Fridays, 10 p.m.</when>
+	</event>
+	<event id="857279">
+		<when>Fridays, 10 p.m.</when>
+	</event>
+	<event id="840766">
+		<when>Fridays, 10 PM</when>
+	</event>
+	<event id="840224">
+		<when>Fridays and Saturdays, 10 PM</when>
+	</event>
+	<event id="839162">
+		<when>Fridays, 11 p.m.</when>
+	</event>
+	<event id="5346745">
+		<when>Fridays, 12 a.m.</when>
+	</event>
+	<event id="854173">
+		<when>Fridays, 1:30 a.m.</when>
+	</event>
+	<event id="5360860">
+		<when>Open run: last Sat of every month, 7:30 PM</when>
+	</event>
+	<event id="839035">
+		<when>Open run: Sat 2 PM,</when>
+	</event>
+	<event id="5691460">
+		<when>Ongoing: Sat 10:30 PM</when>
+	</event>
+	<event id="1378008">
+		<when>Open run: 2nd and 4th Sat of the month, 10 PM</when>
+	</event>
+	<event id="5298781">
+		<when>First Saturday of every month</when>
+	</event>
+	<event id="5060163">
+		<when>Open run: first Sat of every month, 10:30 PM</when>
+	</event>
+	<event id="1406369">
+		<when>Open run: Fri-Sat 8 and 10 PM</when>
+	</event>
+	<event id="839587">
+		<when/>
+	</event>
+	<event id="1180566">
+		<when>Open run: Sat 5 PM</when>
+	</event>
+	<event id="1434370">
+		<when>Open run: Fri-Sat 9 PM</when>
+	</event>
+	<event id="1110872">
+		<when>Open run: Sat midnight</when>
+	</event>
+	<event id="5841253">
+		<when>Ongoing: Sat midnight</when>
+	</event>
+	<event id="1306665">
+		<when>Open run: Sat 11 PM</when>
+	</event>
+	<event id="4252227">
+		<when>Open run: Sat 11 PM,</when>
+	</event>
+	<event id="4485026">
+		<when>Open run: Sat 8 PM</when>
+	</event>
+	<event id="4334996">
+		<when>First Saturday of every month, 10:30 a.m.-12:30 p.m.</when>
+	</event>
+	<event id="839940">
+		<when>Saturdays, Sundays, 10:30-11:30 a.m.</when>
+	</event>
+	<event id="844393">
+		<when>Saturdays, 11 a.m.-12:30 p.m.</when>
+	</event>
+	<event id="843681">
+		<when>Second Saturday of every month, 1-3 p.m.</when>
+	</event>
+	<event id="839941">
+		<when>Saturdays, 1-3 p.m.</when>
+	</event>
+	<event id="845996">
+		<when>Saturdays, 3-6 p.m.</when>
+	</event>
+	<event id="847692">
+		<when>First Saturday of every month, 3-7 p.m.</when>
+	</event>
+	<event id="939379">
+		<when>Saturdays, 6 p.m.</when>
+	</event>
+	<event id="840213">
+		<when>Saturdays, 6 p.m.</when>
+	</event>
+	<event id="1247504">
+		<when>Saturdays, 6:30-10:30 p.m.</when>
+	</event>
+	<event id="1343049">
+		<when>Last Saturday of every month, 8 p.m.</when>
+	</event>
+	<event id="1256934">
+		<when>Open run: Sat 7-9 PM</when>
+	</event>
+	<event id="6531923">
+		<when>Saturdays, 7:30 p.m.</when>
+	</event>
+	<event id="929819">
+		<when>Saturdays, 7:30 p.m.</when>
+	</event>
+	<event id="4444278">
+		<when>Third Saturday of every month, 8 p.m.</when>
+	</event>
+	<event id="839672">
+		<when>Saturdays, 8 p.m.</when>
+	</event>
+	<event id="4484526">
+		<when>Open run: final Sat of each month, 8 PM</when>
+	</event>
+	<event id="839265">
+		<when>Open run: Sat 8 PM</when>
+	</event>
+	<event id="852932">
+		<when>Saturdays, 8:30 p.m.</when>
+	</event>
+	<event id="842085">
+		<when>Saturdays, 9 p.m.</when>
+	</event>
+	<event id="6183799">
+		<when>Sun., July 29, 7 p.m.</when>
+	</event>
+	<event id="6889165">
+		<when>Sun., July 29, 7-10 p.m.</when>
+	</event>
+	<event id="6079957">
+		<when>Sun., July 29, 8 p.m.</when>
+	</event>
+	<event id="6889141">
+		<when>Sun., July 29, 8 p.m.</when>
+	</event>
+	<event id="6802760">
+		<when>Through 7/29:</when>
+	</event>
+	<event id="6315322">
+		<when>Through 7/29: Tue-Wed 7:30 PM, Thu-Fri 8 PM, Sat 4 and 8 PM, Sun 2 and 6 PM.</when>
+	</event>
+	<event id="6467913">
+		<when>7/28-7/29, Sat-Sun 1-11 PM</when>
+	</event>
+	<event id="6638125">
+		<when>Through 7/29: Sun 8 PM.</when>
+	</event>
+	<event id="6887131">
+		<when>Through 7/29: Thu-Sat 8 PM, Sun 2 PM</when>
+	</event>
+	<event id="6809793">
+		<when>Through 7/29: Fri 8 PM, Sat 3 and 8 PM, Sun 3 PM</when>
+	</event>
+	<event id="6468505">
+		<when>7/26-7/29, Thu 5-10 PM, Fri-Sat 11 AM-11 PM, Sun 11 AM-10 PM</when>
+	</event>
+	<event id="6692369">
+		<when>Through 7/29: Thu-Sat 8 PM, Sun 3 PM</when>
+	</event>
+	<event id="6036793">
+		<when>Through 7/29:</when>
+	</event>
+	<event id="6786014">
+		<when>Through 7/29: Wed-Sat 7:30 PM, Sun 6:30 PM</when>
+	</event>
+	<event id="6786035">
+		<when>7/26-7/29: Thu-Fri noon-8 PM, Sat-Sun 10 AM-6 PM</when>
+	</event>
+	<event id="6532290">
+		<when>Through 7/29:</when>
+	</event>
+	<event id="6467238">
+		<when>7/27-7/29, Fri-Sun 10 AM-5 PM</when>
+	</event>
+	<event id="6750931">
+		<when>Through 7/29: Tue 7 PM, Wed 2 and 7 PM, Fri 7 PM, Sat 4 and 7 PM, Sun 3 PM</when>
+	</event>
+	<event id="5734431">
+		<when>Through 7/29:</when>
+	</event>
+	<event id="6810180">
+		<when>Through 7/29:</when>
+	</event>
+	<event id="6468623">
+		<when>7/28-7/29, Sat noon-10 PM, Sun 11 AM-10 PM</when>
+	</event>
+	<event id="6879205">
+		<when>Through 7/29: Sun 8 PM</when>
+	</event>
+	<event id="6377667">
+		<when>July 28-29</when>
+	</event>
+	<event id="6269603">
+		<when>7/28-7/29, noon-10 PM</when>
+	</event>
+	<event id="6800490">
+		<when>Through 7/29:</when>
+	</event>
+	<event id="6133219">
+		<when>Mon., July 30, 6:30 p.m.</when>
+	</event>
+	<event id="6052178">
+		<when>Through 7/30:</when>
+	</event>
+	<event id="6620883">
+		<when>Through 7/30:</when>
+	</event>
+	<event id="6886834">
+		<when>Through 7/30:</when>
+	</event>
+	<event id="6852693">
+		<when>Tue., July 31, 8 p.m.</when>
+	</event>
+	<event id="6676735">
+		<when>Tue., July 31, 9 p.m.</when>
+	</event>
+	<event id="6879211">
+		<when>Through 7/31: 7:30 PM</when>
+	</event>
+	<event id="6802328">
+		<when>Through 7/31:</when>
+	</event>
+	<event id="6887215">
+		<when>Through 7/31:</when>
+	</event>
+	<event id="6612429">
+		<when>Through 7/31:</when>
+	</event>
+	<event id="6102670">
+		<when>Through 7/31:</when>
+	</event>
+	<event id="6674570">
+		<when>Wed., Aug. 1, 7 p.m.</when>
+	</event>
+	<event id="6267497">
+		<when>Wed., Aug. 1, 8 p.m.</when>
+	</event>
+	<event id="6367764">
+		<when>Wed., Aug. 1, 8 p.m.</when>
+	</event>
+	<event id="6471287">
+		<when>Wed., Aug. 1, 8 p.m.</when>
+	</event>
+	<event id="6367938">
+		<when>Wed., Aug. 1, 8 p.m.</when>
+	</event>
+	<event id="6032337">
+		<when>Wed., Aug. 1, 8:30 p.m.</when>
+	</event>
+	<event id="6081612">
+		<when>Wed., Aug. 1, 8:30 p.m.</when>
+	</event>
+	<event id="6674516">
+		<when>Wed., Aug. 1, 9 p.m.</when>
+	</event>
+	<event id="6810596">
+		<when>Through 8/1:</when>
+	</event>
+	<event id="6878886">
+		<when>Through 8/1:</when>
+	</event>
+	<event id="6793049">
+		<when>Thu., Aug. 2, 6:30 p.m.</when>
+	</event>
+	<event id="6032307">
+		<when>Thu., Aug. 2, 7:30 p.m.</when>
+	</event>
+	<event id="6675402">
+		<when>Thu., Aug. 2, 8 p.m.</when>
+	</event>
+	<event id="5825666">
+		<when>Thu., Aug. 2, 8 p.m.</when>
+	</event>
+	<event id="6471222">
+		<when>Thu., Aug. 2, 8 p.m.</when>
+	</event>
+	<event id="6674521">
+		<when>Thu., Aug. 2, 9 p.m.</when>
+	</event>
+	<event id="6674530">
+		<when>Thu., Aug. 2, 9 p.m.</when>
+	</event>
+	<event id="6675032">
+		<when>Thu., Aug. 2, 9 p.m.</when>
+	</event>
+	<event id="6132902">
+		<when>Thu., Aug. 2, 9:30 p.m.</when>
+	</event>
+	<event id="6675780">
+		<when>Thu., Aug. 2, 10 p.m.</when>
+	</event>
+	<event id="6792663">
+		<when>Through 8/2:</when>
+	</event>
+	<event id="6574254">
+		<when>Through 8/3:</when>
+	</event>
+	<event id="6029894">
+		<when>Fri., Aug. 3, 7 p.m.</when>
+	</event>
+	<event id="6467048">
+		<when>Fri., Aug. 3, 7:30 p.m.</when>
+	</event>
+	<event id="6270249">
+		<when>Fri., Aug. 3, 7:30 p.m.</when>
+	</event>
+	<event id="5924889">
+		<when>Fri., Aug. 3, 8 p.m.</when>
+	</event>
+	<event id="6675372">
+		<when>Fri., Aug. 3, 9 p.m.</when>
+	</event>
+	<event id="6675068">
+		<when>Fri., Aug. 3, 9:30 p.m.</when>
+	</event>
+	<event id="6792657">
+		<when>Aug. 8-12</when>
+	</event>
+	<event id="6786042">
+		<when>Through 8/12: Fri 5:30-9 PM, Sat 11:30 AM-9 PM, Sun 11:30 AM-7 PM</when>
+	</event>
+	<event id="6793657">
+		<when>Aug. 7-12</when>
+	</event>
+	<event id="6469894">
+		<when>8/11-8/12, Sat-Sun 11 AM-10 PM</when>
+	</event>
+	<event id="6638366">
+		<when>Through 8/12: Thu-Sat 7:30 PM, Sun 2:30 PM.</when>
+	</event>
+	<event id="6468812">
+		<when>8/11-8/12, Sat-Sun noon-10 PM</when>
+	</event>
+	<event id="6467104">
+		<when>Aug. 11-12, 7 p.m.</when>
+	</event>
+	<event id="6367817">
+		<when>Mon., Aug. 13, 3 p.m.</when>
+	</event>
+	<event id="6886818">
+		<when>Through 8/13:</when>
+	</event>
+	<event id="6792665">
+		<when>Tue., Aug. 14, 6:30 p.m.</when>
+	</event>
+	<event id="6183738">
+		<when>Wed., Aug. 15, 7:30 p.m.</when>
+	</event>
+	<event id="6267528">
+		<when>Wed., Aug. 15, 8 p.m.</when>
+	</event>
+	<event id="6132721">
+		<when>Thu., Aug. 16, 1 p.m.</when>
+	</event>
+	<event id="6459608">
+		<when>Thu., Aug. 16, 8 p.m.</when>
+	</event>
+	<event id="6471230">
+		<when>Thu., Aug. 16, 8:30 p.m.</when>
+	</event>
+	<event id="6851279">
+		<when>Thu., Aug. 16, 9 p.m.</when>
+	</event>
+	<event id="6367691">
+		<when>Thu., Aug. 16, 9 p.m.</when>
+	</event>
+	<event id="6887115">
+		<when>Through 8/16:</when>
+	</event>
+	<event id="5454356">
+		<when>Through 4/15: Thu, Fri, and Sat 8 PM; Sun 7 PM</when>
+	</event>
+	<event id="6267345">
+		<when>Fri., Aug. 17, 6:30 p.m.</when>
+	</event>
+	<event id="6792655">
+		<when>Fri., Aug. 17, 6:30 p.m.</when>
+	</event>
+	<event id="6792610">
+		<when>Fri., Aug. 17, 7 p.m.</when>
+	</event>
+	<event id="6267574">
+		<when>Fri., Aug. 17, 8 p.m.</when>
+	</event>
+	<event id="6675433">
+		<when>Fri., Aug. 17, 8 p.m.</when>
+	</event>
+	<event id="6887127">
+		<when>Through 8/17:</when>
+	</event>
+	<event id="6088659">
+		<when>Through 8/17: Check with theater for showtimes</when>
+	</event>
+	<event id="6793051">
+		<when>3-7 PM</when>
+	</event>
+	<event id="6562879">
+		<when>Sat., Aug. 18, 5:30 p.m.</when>
+	</event>
+	<event id="6184653">
+		<when>Sat., Aug. 18, 7:30 p.m.</when>
+	</event>
+	<event id="6267586">
+		<when>Sat., Aug. 18, 8 p.m.</when>
+	</event>
+	<event id="6467128">
+		<when>Sat., Aug. 18, 8:30 p.m.</when>
+	</event>
+	<event id="6080029">
+		<when>Sat., Aug. 18, 9 p.m.</when>
+	</event>
+	<event id="6851277">
+		<when>Sat., Aug. 18, 9 p.m.</when>
+	</event>
+	<event id="6802746">
+		<when>Through 8/18:</when>
+	</event>
+	<event id="928085">
+		<when>Saturdays, 9 p.m.</when>
+	</event>
+	<event id="838966">
+		<when>Open run: Sat 9 PM</when>
+	</event>
+	<event id="929693">
+		<when>Saturdays, 9 p.m.</when>
+	</event>
+	<event id="929916">
+		<when>Saturdays, 9 p.m.</when>
+	</event>
+	<event id="840105">
+		<when>Saturdays, 9 p.m.</when>
+	</event>
+	<event id="841695">
+		<when>Saturdays, 9 PM</when>
+	</event>
+	<event id="840102">
+		<when>Saturdays, 9 p.m.</when>
+	</event>
+	<event id="931371">
+		<when>Saturdays, 9 p.m.</when>
+	</event>
+	<event id="839689">
+		<when>Saturdays, 9 p.m.</when>
+	</event>
+	<event id="852984">
+		<when>Saturdays, 9 p.m.</when>
+	</event>
+	<event id="996342">
+		<when>Saturdays, 9 p.m.</when>
+	</event>
+	<event id="839514">
+		<when>Saturdays, 10 p.m.</when>
+	</event>
+	<event id="860589">
+		<when>Saturdays, 10 PM</when>
+	</event>
+	<event id="860588">
+		<when>Saturdays, 10 PM</when>
+	</event>
+	<event id="841966">
+		<when>Saturdays, 10 p.m.</when>
+	</event>
+	<event id="841887">
+		<when>Saturdays, 10 p.m.</when>
+	</event>
+	<event id="839701">
+		<when>Saturdays, 10 p.m.</when>
+	</event>
+	<event id="839698">
+		<when>Saturdays, 10 p.m.</when>
+	</event>
+	<event id="839202">
+		<when>Open run: Sat 10:30 PM</when>
+	</event>
+	<event id="5989940">
+		<when>Saturdays, 10:30 p.m.</when>
+	</event>
+	<event id="861626">
+		<when>Saturdays, 11 p.m.</when>
+	</event>
+	<event id="839164">
+		<when>Saturdays, 11 p.m.</when>
+	</event>
+	<event id="861630">
+		<when>Saturdays, 11 p.m.</when>
+	</event>
+	<event id="3633360">
+		<when>Open run: every last Saturday of the month, 11 PM</when>
+	</event>
+	<event id="839216">
+		<when>Open run: Sat midnight</when>
+	</event>
+	<event id="839264">
+		<when>Open run: Sat midnight</when>
+	</event>
+	<event id="854174">
+		<when>Saturdays, 12 a.m.</when>
+	</event>
+	<event id="5773418">
+		<when>Ongoiing: Sun 5-9 PM</when>
+	</event>
+	<event id="4913931">
+		<when>Open run: Sun 8 PM</when>
+	</event>
+	<event id="839174">
+		<when/>
+	</event>
+	<event id="5425475">
+		<when>Ongoing</when>
+	</event>
+	<event id="2959453">
+		<when>Ongoing.</when>
+	</event>
+	<event id="1531022">
+		<when>Ongoing</when>
+	</event>
+	<event id="1208598">
+		<when>Ongoing</when>
+	</event>
+	<event id="839180">
+		<when>First and third Tue of month, 7:30 PM</when>
+	</event>
+	<event id="839951">
+		<when>Ongoing</when>
+	</event>
+	<event id="839944">
+		<when>Ongoing</when>
+	</event>
+	<event id="842994">
+		<when>Ongoing</when>
+	</event>
+	<event id="839950">
+		<when>Ongoing</when>
+	</event>
+	<event id="839954">
+		<when>Ongoing</when>
+	</event>
+	<event id="839957">
+		<when>Ongoing</when>
+	</event>
+	<event id="1216743">
+		<when>Ongoing</when>
+	</event>
+	<event id="839976">
+		<when>Ongoing</when>
+	</event>
+	<event id="839975">
+		<when>Ongoing</when>
+	</event>
+	<event id="839943">
+		<when>Ongoing</when>
+	</event>
+	<event id="839972">
+		<when>Ongoing</when>
+	</event>
+	<event id="4902689">
+		<when>Ongoing:</when>
+	</event>
+	<event id="936811">
+		<when>Open run: Tue 7:30 PM</when>
+	</event>
+	<event id="5478764">
+		<when>Ongoing.</when>
+	</event>
+	<event id="839952">
+		<when>Ongoing</when>
+	</event>
+	<event id="4358230">
+		<when>Ongoing</when>
+	</event>
+	<event id="839953">
+		<when>Ongoing</when>
+	</event>
+	<event id="4033294">
+		<when>Ongoing</when>
+	</event>
+	<event id="839936">
+		<when>Daily at noon, 1, and 2 PM.</when>
+	</event>
+	<event id="5131417">
+		<when>Ongoing</when>
+	</event>
+	<event id="3761315">
+		<when>Ongoing</when>
+	</event>
+	<event id="2894753">
+		<when>Ongoing.</when>
+	</event>
+	<event id="6700808">
+		<when>Through 8/3:</when>
+	</event>
+	<event id="6878559">
+		<when>Through 8/3: Fri 10:30 PM</when>
+	</event>
+	<event id="5783044">
+		<when>Sat., Aug. 4, 7 p.m.</when>
+	</event>
+	<event id="6467068">
+		<when>Sat., Aug. 4, 7 p.m.</when>
+	</event>
+	<event id="6723338">
+		<when>Sat., Aug. 4, 8 p.m.</when>
+	</event>
+	<event id="6271927">
+		<when>Sat., Aug. 4, 9 p.m.</when>
+	</event>
+	<event id="6675147">
+		<when>Sat., Aug. 4, 9 p.m.</when>
+	</event>
+	<event id="6675756">
+		<when>Sat., Aug. 4, 10 p.m.</when>
+	</event>
+	<event id="6675774">
+		<when>Sat., Aug. 4, 10 p.m.</when>
+	</event>
+	<event id="6674672">
+		<when>Sat., Aug. 4, 11 p.m.</when>
+	</event>
+	<event id="6676740">
+		<when>Sat., Aug. 4, 11 p.m.</when>
+	</event>
+	<event id="6674989">
+		<when>Sat., Aug. 4, 11 p.m.</when>
+	</event>
+	<event id="6674465">
+		<when>Sat., Aug. 4, 11 p.m.</when>
+	</event>
+	<event id="6674532">
+		<when>Sat., Aug. 4, 11 p.m.</when>
+	</event>
+	<event id="6675047">
+		<when>Sat., Aug. 4, 11 p.m.</when>
+	</event>
+	<event id="6674344">
+		<when>Sat., Aug. 4, 11 p.m.</when>
+	</event>
+	<event id="6674871">
+		<when>Sat., Aug. 4, 11 p.m.</when>
+	</event>
+	<event id="6674523">
+		<when>Sat., Aug. 4, 11 p.m.</when>
+	</event>
+	<event id="6851725">
+		<when>Through 8/4:</when>
+	</event>
+	<event id="6783447">
+		<when>Through 8/4:</when>
+	</event>
+	<event id="6802744">
+		<when>Through 8/4:</when>
+	</event>
+	<event id="6878878">
+		<when>Through 8/4: Mon 8 PM, Fri-Sat 8 PM</when>
+	</event>
+	<event id="6879219">
+		<when>Through 8/4:</when>
+	</event>
+	<event id="6783444">
+		<when>Through 8/4:</when>
+	</event>
+	<event id="6510393">
+		<when>Through 8/5: Tue-Thu 7:30 PM, Fri-Sat 8 PM, Sun 2 and 7:30 PM</when>
+	</event>
+	<event id="6792614">
+		<when>July 28-Aug. 5</when>
+	</event>
+	<event id="6675750">
+		<when>Sun., Aug. 5, 10 p.m.</when>
+	</event>
+	<event id="6032338">
+		<when>Fri., Aug. 10, 7 &amp;amp; 10 p.m.</when>
+	</event>
+	<event id="6726458">
+		<when>Fri., Aug. 10, 7 p.m.</when>
+	</event>
+	<event id="6887573">
+		<when>Through 8/10:</when>
+	</event>
+	<event id="6762592">
+		<when>Wednesdays-Sundays. Continues through Aug. 11</when>
+	</event>
+	<event id="6675401">
+		<when>Sat., Aug. 11, 6 p.m.</when>
+	</event>
+	<event id="6366639">
+		<when>Sat., Aug. 11, 7 p.m.</when>
+	</event>
+	<event id="6462754">
+		<when>Sat., Aug. 11, 7 p.m.</when>
+	</event>
+	<event id="6562220">
+		<when>Sat., Aug. 11, 8 p.m.</when>
+	</event>
+	<event id="6267514">
+		<when>Sat., Aug. 11, 8 p.m.</when>
+	</event>
+	<event id="6564967">
+		<when>Sat., Aug. 11, 8:30 p.m.</when>
+	</event>
+</events>
