@@ -1,6 +1,7 @@
 package net.spantree.crony.ical
 
 import java.text.SimpleDateFormat
+import org.joda.time.DateTime
 
 
 class ICalRecurRuleParser {
@@ -20,7 +21,7 @@ class ICalRecurRuleParser {
 						rule.frequency = Enum.valueOf(ICalRecurRule.FREQUENCY.class, v);
 						break;
 					case "UNTIL":
-						rule.until = dateFormat.parse(v)
+						rule.until = new DateTime(dateFormat.parse(v))
 						break
 					case "COUNT":
 						rule.count = Long.parseLong(v)

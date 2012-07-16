@@ -2,43 +2,52 @@ package net.spantree.crony.converters
 
 import net.spantree.crony.cron.CronExpression
 import net.spantree.crony.ical.ICalRecurRule
+import net.spantree.crony.ical.ICalRecurRuleParser
+import org.joda.time.DateTime
 
 class ICalToCronConverter {
-	List<String> convert(ICalRecurRule rule) {
+
+	static List<CronExpression> convert(DateTime now, ICalRecurRule rule) {
 		CronExpression expr = new CronExpression()
-		
-		
+
 		switch(rule.frequency) {
 			case ICalRecurRule.FREQUENCY.SECONDLY:
 				throw new Exception("Can't convert secondly rules!")
+				break
 			case ICalRecurRule.FREQUENCY.MINUTELY:
-				expr.minList = [0]
-				expr.hourList = [0]
-				expr.dayOfMonthList = [1]
-				expr.minInterval = rule.frequency
+				expr.min.setInterval(rule.interval)
 				break
 			case ICalRecurRule.FREQUENCY.HOURLY:
-				expr.minList = [0]
-				expr.hourInterval = rule.frequency
+				expr.min.valueList = [now.minuteOfHour]
+				expr.hour.setInterval(rule.interval)
 				break
 			case ICalRecurRule.FREQUENCY.DAILY:
-				expr.minList = [0]
-				expr.hourList = [0]
-				expr.dayOfMonthInterval = rule.frequency
+				expr.min.valueList = [now.minuteOfHour]
+				expr.hour.valueList = [now.hourOfDay]
+				expr.dayOfMonth.setInterval(rule.interval)
 				break
 			case ICalRecurRule.FREQUENCY.WEEKLY:
-				throw new Exception("Can't convert weekly rules!")
+				expr.min.valueList = [0]
+				expr.hour.valueList = [0]
+				expr.dayOfWeek.valueList = [0]
 				break
 			case ICalRecurRule.FREQUENCY.MONTHLY:
-				expr.hourList = [0]
-				expr.minList = [0]
-				expr.monthInterval = rule.frequency
+				expr.hour.valueList = [0]
+				expr.min.valueList = [0]
+				expr.dayOfWeek.valueList = [1]
+				expr.month.setInterval(rule.interval)
 				break
 			case ICalRecurRule.FREQUENCY.YEARLY:
-				expr.minList = [0]
-				expr.monthInterval = rule.frequency
+				expr.hour.valueList = [0]
+				expr.min.valueList = [0]
+				expr.dayOfWeek.valueList = [1]
+				expr.month.valueList = [1]
 				break
+			default:
+				throw new Exception("Parser is unaware of frequence type ${rule.frequency}");
 				
 		}
+		
+		return [expr]
 	}
 }

@@ -1,5 +1,7 @@
 package net.spantree.crony.ical
 
+import org.joda.time.DateTime
+
 class ICalRecurRule {
 	public enum FREQUENCY {
 		SECONDLY,
@@ -22,7 +24,7 @@ class ICalRecurRule {
 	}
 	
 	public FREQUENCY frequency;
-	public Date until = null;
+	public DateTime until = null;
 	public Long count = null;
 	public Long interval = null;
 	

@@ -7,23 +7,38 @@ class CronExpression {
 		RANGE
 	}
 	
-	public CronTimeUnitType minType = CronTimeUnitType.WILDCARD
-	public List minList = []
-	public int minInterval = -1
+	class CronTimeUnit {
+		CronTimeUnitType type = CronTimeUnitType.WILDCARD
+		List valueList = []
+		Long interval = 1
+		boolean isRange = false;
+		
+		String toString() {
+			String str = ""
+			if(valueList.size()>0){
+				str = valueList.join(",")
+			}
+			else {
+				str += "*"
+			}
+			
+			if(interval > 1) {
+				str += "/$interval"
+			}
+			
+			return str
+		}
+	}
 	
-	public CronTimeUnitType hourType = CronTimeUnitType.WILDCARD
-	public List hourList = []
-	public int hourInterval = -1
+	public CronTimeUnit min = new CronTimeUnit()
+	public CronTimeUnit hour = new CronTimeUnit()
+	public CronTimeUnit dayOfMonth = new CronTimeUnit()
+	public CronTimeUnit month = new CronTimeUnit()
+	public CronTimeUnit dayOfWeek = new CronTimeUnit()
 	
-	public CronTimeUnitType dayOfMonthType = CronTimeUnitType.WILDCARD
-	public List dayOfMonthList = []
-	public int dayOfMonthInterval = -1
 	
-	public CronTimeUnitType monthListType = CronTimeUnitType.WILDCARD
-	public List monthList = []
-	public int monthInterval = -1
 	
-	public CronTimeUnitType weekListType = CronTimeUnitType.WILDCARD
-	public List weekList = []
-	public int weekInterval = -1
+	public String toString() {
+		return "$min $hour $dayOfMonth $month $dayOfWeek"
+	}
 }
