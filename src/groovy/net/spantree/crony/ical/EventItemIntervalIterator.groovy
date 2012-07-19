@@ -11,16 +11,28 @@ import com.google.ical.compat.jodatime.DateTimeIterator
 import com.google.ical.compat.jodatime.DateTimeIteratorFactory;
 
 class EventItemIntervalIterator implements Iterator<Interval> {
-		static final DateTimeZone CST = DateTimeZone.forID("America/Los_Angeles");
-	
-		DateTimeIterator dtIt
+		
+		Iterator dtIt
 		EventItem itm
 		
 		public EventItemIntervalIterator(EventItem itm) {
+			this(itm,itm.getStartDateTime());
+		}
+		
+		public EventItemIntervalIterator(EventItem itm, DateTime startTime) {
 			this.itm = itm
-			assert itm.startDateTime
-
-			dtIt = DateTimeIteratorFactory.createDateTimeIterator(itm.vEvent.getProperty("RRULE").toString(), itm.startDateTime, CST, true);
+			assert startTime
+			
+			//Hack: Since start date is always included (but it may not be valid), subtract a millisecond and then advance the iterator later.
+			startTime = startTime.minus(1); 
+			if(itm.vEvent.getProperty("RRULE")) {
+				dtIt = DateTimeIteratorFactory.createDateTimeIterator(itm.getRecurRule().toString(), startTime, DateTimeZone.getDefault(), true);
+				dtIt.next();
+			}
+			else if (itm.getStartDateTime())
+				dtIt =[itm.getStartDateTime()].iterator()
+			else
+				dtIt = [].iterator()
 		}
 
 		@Override
@@ -31,6 +43,7 @@ class EventItemIntervalIterator implements Iterator<Interval> {
 		@Override
 		public Interval next() {
 			DateTime dtStart = dtIt.next()
+			
 			if(itm.duration) {
 				Date dtEnd = dtStart + itm.duration;
 				return new Interval(dtStart,dtEnd);

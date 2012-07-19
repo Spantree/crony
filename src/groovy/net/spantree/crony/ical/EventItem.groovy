@@ -12,6 +12,7 @@ import net.fortuna.ical4j.model.Calendar;
 import net.fortuna.ical4j.model.Component
 import net.fortuna.ical4j.model.component.VEvent
 import net.fortuna.ical4j.model.property.DtStart
+import net.fortuna.ical4j.model.property.RRule
 
 import org.joda.time.DateTime;
 import org.joda.time.DateTimeZone;
@@ -28,18 +29,30 @@ public class EventItem{
 	
 	public EventItem(VEvent v) {
 		this.vEvent = v;
+		
 	}
-	
+
 	public DateTime getStartDateTime() {
-		if(vEvent.getStartDate().date)
-			new DateTime(vEvent.getStartDate().date)
+		if(vEvent.getStartDate()?.date)
+			if(vEvent.getStartDate().timeZone) {
+				new DateTime(vEvent.getStartDate().date,DateTimeZone.forID(vEvent.getStartDate().timeZone.ID))
+			}
+			else {
+				new DateTime(vEvent.getStartDate().date,DateTimeZone.getDefault())
+			}
 		else
 			null
 	}
 	
 	public DateTime getEndDateTime() {
-		if(vEvent.getEndDate().date)
-			new DateTime(vEvent.getEndDate().date)
+		if(vEvent.getEndDate()?.date) {
+			if(vEvent.getEndDate().timeZone) {
+				DateTime dt = new DateTime(vEvent.getEndDate().date, DateTimeZone.forID(vEvent.getEndDate().timeZone.ID))
+			}
+			else {
+				new DateTime(vEvent.getEndDate().date,DateTimeZone.getDefault())
+			}
+		}
 		else
 			null
 	}
@@ -54,8 +67,19 @@ public class EventItem{
 		
 	}
 	
+	public RRule getRecurRule() {
+		return vEvent.getProperty("RRULE");
+	}
+	
+	public EventItemIntervalIterator getOccurances(DateTime start) {
+		return new EventItemIntervalIterator(this,start);
+	}
+	
 	public EventItemIntervalIterator getOccurances() {
-		return new EventItemIntervalIterator(this);
+		if(getStartDateTime())
+			return getOccurances(getStartDateTime());
+		else
+			return getOccurances(DateTime.now())
 	}
 	
 

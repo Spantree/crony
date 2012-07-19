@@ -4,6 +4,7 @@ import groovy.util.slurpersupport.GPathResult
 import net.fortuna.ical4j.data.ParserException
 import net.spantree.crony.ical.CalendarItem
 import spock.lang.Specification
+import org.joda.time.DateTime
 
 class CalendarItemSpec extends Specification{
 	def "can parse ical files"() {
@@ -17,10 +18,13 @@ class CalendarItemSpec extends Specification{
 				try{
 					CalendarItem cItem = new CalendarItem("$ical")
 					cItem.events.each{ evtItem ->
-						evtItem.getOccurances().each { it ->
+						print evtItem.getRecurRule()?evtItem.getRecurRule():"No recur rule\n"
+						evtItem.getOccurances(DateTime.now()).each { it ->
 							println it
 						}
+						println()
 					}
+					
 				} catch (ParserException pex) {
 				
 				}
