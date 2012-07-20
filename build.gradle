@@ -6,8 +6,18 @@ repositories {
     mavenCentral()
 }
 
+task generateWithANTLR3(type:Exec) {
+	workingDir("src/antlr")
+	commandLine = ['/usr/local/bin/antlr-3.4', '-verbose', '-make', '-o', '../../src/java/net/spantree/crony/grammars', 'ChicagoReader.g']
+}
+compileJava {
+	dependsOn generateWithANTLR3
+	
+}
+
 dependencies {
 	testCompile 'org.spockframework:spock-core:0.6-groovy-1.8'
 	compile 'joda-time:joda-time:2.1'
 	compile 'org.mnode.ical4j:ical4j:1.0.3'
+	compile 'org.antlr:antlr:3.4'
 }
