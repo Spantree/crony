@@ -6,12 +6,19 @@ repositories {
     mavenCentral()
 }
 
-task generateWithANTLR3(type:Exec) {
+task generateTimeRanges(type:Exec) {
 	workingDir("src/antlr")
-	commandLine = ['/usr/local/bin/antlr-3.4', '-verbose', '-make', '-o', '../../src/java/net/spantree/crony/grammars', 'ChicagoReader.g']
+	commandLine = ['/usr/local/bin/antlr-3.4', '-verbose', '-make', '-o', '../../src/java/net/spantree/crony/grammars', '-lib', 'lib/', 'TimeRanges.g']
 }
+
+task generateTimeLists(type:Exec) {
+	workingDir("src/antlr")
+	commandLine = ['/usr/local/bin/antlr-3.4', '-verbose', '-make', '-o', '../../src/java/net/spantree/crony/grammars', '-lib', 'lib/', 'TimeLists.g']
+}
+
 compileJava {
-	dependsOn generateWithANTLR3
+	dependsOn generateTimeRanges
+	dependsOn generateTimeLists
 	
 }
 

@@ -33,5 +33,28 @@ class CalendarItemSpec extends Specification{
 		then:
 			true
 	}
+	
+	def "can parse hard ical"() {
+		when:
+			def ical = """BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gyrobase/iCalendar//NONSGML v1.0//EN
+BEGIN:VEVENT
+DTSTART:20120711
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20120714
+SUMMARY:Bicycle Illinois
+END:VEVENT
+END:VCALENDAR
+"""
+		then:
+			CalendarItem cItem = new CalendarItem("$ical")
+			cItem.events.each{ evtItem ->
+				print evtItem.getRecurRule()?evtItem.getRecurRule():"No recur rule\n"
+				evtItem.getOccurances(DateTime.now()).each { it ->
+					println it
+				}
+				println()
+			}
+	}
 
 }

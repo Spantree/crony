@@ -1,24 +1,22 @@
-lexer grammar ChicagoReader;
-options {filter=true;}
+lexer grammar CommonDateFormats;
 
-@header {
-package net.spantree.crony.grammars;
-}
-
-WEEK_DAY_RANGE_STRING
-   : (WEEK_DAY_RANGE | (UNTIL ' '* WEEK_DAY_STRING))
-      {System.out.println("found week day range "+getText());}
-   ;
-   
+WEEK_DAY_MONTH_DAY_TIME
+    : WEEK_DAY ' '* ',' ' '* MONTH_DAY ','? ' '* TIME
+    {System.out.println("found weekday, month day and time "+getText());}
+    ;
+WEEK_DAY_MONTH_DAY
+    : (WEEK_DAY ' '* ',' ' '* MONTH_DAY) | WEEK_DAY ' ' ' '* MONTH_DAY
+    {System.out.println("found weekday, month and day "+getText());}
+    ;
+WEEK_DAY_TIME
+    : (WEEK_DAY ' '* ',' ' '* TIME) | (WEEK_DAY ' ' ' '* TIME)
+    {System.out.println("found weekday, time "+getText());}
+    ;
+    
 WEEK_DAY_STRING
     : WEEK_DAY
       {System.out.println("found weekday "+getText());}
       ;
-
-MONTH_DAY_RANGE_STRING
-   : (MONTH_DAY_RANGE | (UNTIL ' '* MONTH_DAY_STRING))
-      {System.out.println("found month day range "+getText());}
-   ;
    
 MONTH_DAY_STRING
     : MONTH_DAY
@@ -29,51 +27,19 @@ MONTH_STRING
    : MONTH
       {System.out.println("found month "+getText());}
    ;
-
-TIME_MULTI_STRING
-    : TIME_MULTI
-      {System.out.println("found multiple times "+getText());}
-   ;
-   
-TIME_RANGE_STRING
-    :(TIME_RANGE | (UNTIL ' '* TIME_STRING))
-      {System.out.println("found time range "+getText());}
-   ;
    
 TIME_STRING
    : TIME
       {System.out.println("found time string "+getText());}
    ;
-
+   
 NUMBER_STRING
    : NUMBER
       {System.out.println("found number "+getText());}
    ;
 
-
 fragment
 MONTH_DAY: (MONTH ' '* NUMBER) | (NUMBER ' '* '/' ' '* NUMBER);
-
-fragment
-MONTH_DAY_RANGE: (MONTH_DAY ' '* '-' ' '* NUMBER) | (MONTH_DAY ' '* '-' ' '* MONTH_DAY);
-
-fragment
-WEEK_DAY_RANGE: (WEEK_DAY ' '* '-' ' '* WEEK_DAY);
-
-fragment
-TIME_MULTI: (TIME ' '* AND ' '* TIME) | (TIME ' '* AND ' '* TIME_MULTI);
-
-fragment
-TIME_RANGE: (TIME ' '* '-' ' '* TIME);
-
-fragment
-TIME: (NUMBER (':' NUMBER (':' NUMBER)?)? ' '* (AM | PM)?) | N O O N | M I D N I G H T;
-
-fragment
-UNTIL: U N T I L | T H R O U G H;
-
-fragment
-AND: A N D | '&';
 
 fragment
 MONTH:  J A N ('.')? | J A N U A R Y | 
@@ -98,6 +64,8 @@ WEEK_DAY: M O N ('.')? | M O N D A Y (S)?|
           S A ('.')? | S A T ('.')? | S A T U R D A Y (S)?|
           S U ('.')? | S U N ('.')? | S U N D A Y (S)?;
 
+fragment
+TIME: (NUMBER (':' NUMBER (':' NUMBER)?)? ' '* (AM | PM)?) | N O O N | M I D N I G H T;
 
 fragment      
 NUMBER: '0'..'9' '0'..'9'*;
@@ -107,6 +75,9 @@ PM: P M | P '.' M '.';
 
 fragment
 AM: A M | A '.' M '.';
+
+fragment
+AT: A T | '@';
 
 fragment A:('a'|'A');
 fragment B:('b'|'B');
