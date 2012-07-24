@@ -2,6 +2,8 @@ package net.spantree.crony.ical
 
 import java.util.Iterator;
 
+import net.fortuna.ical4j.model.Period
+import net.fortuna.ical4j.model.PeriodList
 import org.joda.time.DateTime
 import org.joda.time.DateTimeZone;
 import org.joda.time.Interval;
@@ -23,16 +25,25 @@ class EventItemIntervalIterator implements Iterator<Interval> {
 			this.itm = itm
 			assert startTime
 			
-			//Hack: Since start date is always included (but it may not be valid), subtract a millisecond and then advance the iterator later.
-			startTime = startTime.minus(1); 
+			
+			net.fortuna.ical4j.model.DateTime ical4jStartTime = new net.fortuna.ical4j.model.DateTime(startTime.toDate())
+			net.fortuna.ical4j.model.DateTime ical4jEndTime = new net.fortuna.ical4j.model.DateTime(startTime.plusYears(1).toDate())
 			if(itm.vEvent.getProperty("RRULE")) {
-				dtIt = DateTimeIteratorFactory.createDateTimeIterator(itm.getRecurRule().toString(), startTime, DateTimeZone.getDefault(), true);
-				dtIt.next();
+				PeriodList lst = itm.vEvent.calculateRecurrenceSet(new Period(ical4jStartTime,ical4jEndTime))
+				dtIt = lst.iterator();
 			}
-			else if (itm.getStartDateTime())
-				dtIt =[itm.getStartDateTime()].iterator()
+			else if (itm.getStartDateTime()) {
+				if(itm.getEndDateTime()) {
+					dtIt =[new Interval(itm.getStartDateTime(),itm.getEndDateTime())].iterator()
+				}
+				else {
+					dtIt =[new Interval(itm.getStartDateTime(),itm.getStartDateTime())].iterator()
+				}
+			}
 			else
 				dtIt = [].iterator()
+			
+			
 		}
 
 		@Override
@@ -42,15 +53,22 @@ class EventItemIntervalIterator implements Iterator<Interval> {
 
 		@Override
 		public Interval next() {
-			DateTime dtStart = dtIt.next()
 			
-			if(itm.duration) {
-				Date dtEnd = dtStart + itm.duration;
-				return new Interval(dtStart,dtEnd);
+			Object o = dtIt.next()
+			if(o instanceof Period) {
+				Period p = (Period)o;
+				java.util.Date dStart = p.getRangeStart()
+				java.util.Date dEnd = p.getRangeEnd()
+				
+				
+				return new Interval(new DateTime(dStart),new DateTime(dEnd));
 			}
-			else {
-				return new Interval(dtStart,dtStart);
+			else if (o instanceof DateTime) {
+				return new Interval(o,o);
 			}
+			else if (o instanceof Interval)
+				return o;
+			
 			
 		}
 
