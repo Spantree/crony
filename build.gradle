@@ -4,6 +4,7 @@ apply plugin: 'groovy'
 
 version = "1.0-SNAPSHOT"
 group = "net.spantree.crony"
+name = "crony"
 
 repositories {
     mavenCentral()
