@@ -17,12 +17,12 @@ configure(install.repositories.mavenInstaller) {
 
 task generateTimeRanges(type:Exec) {
 	workingDir("src/antlr")
-	commandLine = ['/usr/local/bin/antlr-3.4', '-verbose', '-make', '-o', '../../src/java/net/spantree/crony/grammars', '-lib', 'lib/', 'TimeRanges.g']
+	commandLine = ['/usr/local/bin/antlr-3.4', '-verbose', '-make', '-o', '../../src/main/java/net/spantree/crony/grammars', '-lib', 'lib/', 'TimeRanges.g']
 }
 
 task generateTimeLists(type:Exec) {
 	workingDir("src/antlr")
-	commandLine = ['/usr/local/bin/antlr-3.4', '-verbose', '-make', '-o', '../../src/java/net/spantree/crony/grammars', '-lib', 'lib/', 'TimeLists.g']
+	commandLine = ['/usr/local/bin/antlr-3.4', '-verbose', '-make', '-o', '../../src/main/java/net/spantree/crony/grammars', '-lib', 'lib/', 'TimeLists.g']
 }
 
 compileJava {
