@@ -8,9 +8,7 @@ import org.joda.time.DateTime
 import org.joda.time.DateTimeZone;
 import org.joda.time.Interval;
 
-import com.google.ical.compat.jodatime.DateTimeIterable;
-import com.google.ical.compat.jodatime.DateTimeIterator
-import com.google.ical.compat.jodatime.DateTimeIteratorFactory;
+import net.spantree.crony.ical.EventItem;
 
 class EventItemIntervalIterator implements Iterator<Interval> {
 		

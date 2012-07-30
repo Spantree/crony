@@ -19,8 +19,6 @@ import org.joda.time.DateTimeZone;
 import org.joda.time.Interval
 import org.joda.time.Period
 
-import com.google.ical.compat.jodatime.DateTimeIterable;
-import com.google.ical.compat.jodatime.DateTimeIteratorFactory;
 import net.fortuna.ical4j.util.CompatibilityHints;
 
 public class EventItem{

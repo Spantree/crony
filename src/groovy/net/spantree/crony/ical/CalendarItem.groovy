@@ -10,9 +10,8 @@ import net.fortuna.ical4j.model.component.VEvent
 import org.joda.time.DateTime;
 import org.joda.time.DateTimeZone;
 
-import com.google.ical.compat.jodatime.DateTimeIterable;
-import com.google.ical.compat.jodatime.DateTimeIteratorFactory;
 import net.fortuna.ical4j.util.CompatibilityHints;
+import net.spantree.crony.ical.EventItem;
 
 class CalendarItem {
 	Calendar iCalCalendar
