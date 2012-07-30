@@ -16,12 +16,12 @@ configure(install.repositories.mavenInstaller) {
 }
 
 task generateTimeRanges(type:Exec) {
-	workingDir("src/antlr")
+	workingDir("src/main/antlr")
 	commandLine = ['/usr/local/bin/antlr-3.4', '-verbose', '-make', '-o', '../../src/java/net/spantree/crony/grammars', '-lib', 'lib/', 'TimeRanges.g']
 }
 
 task generateTimeLists(type:Exec) {
-	workingDir("src/antlr")
+	workingDir("src/main/antlr")
 	commandLine = ['/usr/local/bin/antlr-3.4', '-verbose', '-make', '-o', '../../src/java/net/spantree/crony/grammars', '-lib', 'lib/', 'TimeLists.g']
 }
 
@@ -32,8 +32,17 @@ compileJava {
 }
 
 dependencies {
+	groovy "org.codehaus.groovy:groovy:1.8.6"
 	testCompile 'org.spockframework:spock-core:0.6-groovy-1.8'
 	compile 'joda-time:joda-time:2.1'
 	compile 'org.mnode.ical4j:ical4j:1.0.3'
 	compile 'org.antlr:antlr:3.4'
+}
+
+uploadArchives {
+	repositories {
+		repositories.mavenDeployer {
+      			pom.artifactId = 'crony'
+		}
+	}
 }
