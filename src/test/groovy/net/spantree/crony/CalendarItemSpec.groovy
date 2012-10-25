@@ -6,6 +6,7 @@ import net.spantree.crony.ical.CalendarItem
 import spock.lang.Specification
 import org.joda.time.DateTime
 import org.joda.time.DateTimeZone
+import org.joda.time.Interval
 
 import net.fortuna.ical4j.util.CompatibilityHints;
 
@@ -25,7 +26,7 @@ class CalendarItemSpec extends Specification{
 					CalendarItem cItem = new CalendarItem("$ical",DateTimeZone.getDefault())
 					cItem.events.each{ evtItem ->
 						print evtItem.getRecurRule()?evtItem.getRecurRule():"No recur rule\n"
-						evtItem.getOccurances(DateTime.now()).each { it ->
+						evtItem.getOccurrences(DateTime.now()).each { it ->
 							println it
 						}
 						println()
@@ -44,9 +45,9 @@ class CalendarItemSpec extends Specification{
 VERSION:2.0
 PRODID:-//gyrobase/iCalendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-DTSTART:20120711
-RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20120714
-SUMMARY:Bicycle Illinois
+DTSTART:20121011
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20121025;BYDAY=TH
+SUMMARY:The Good, the Bad, and the Gosling
 END:VEVENT
 END:VCALENDAR
 """
@@ -54,14 +55,14 @@ END:VCALENDAR
 			CalendarItem cItem = new CalendarItem("$ical",DateTimeZone.getDefault())
 			cItem.events.each{ evtItem ->
 				print evtItem.getRecurRule()?evtItem.getRecurRule():"No recur rule\n"
-				evtItem.getOccurances(new DateTime(2012,6,1,0,0)).each { it ->
-					println it
+				evtItem.getOccurrences(new DateTime(2012,6,1,0,0)).each { Interval i ->
+					println i.start.toDate()
 					numEntries ++;
 				}
 				println()
 			}
 		then:
-			numEntries == 4
+			numEntries == 3
 	}
 
 }
