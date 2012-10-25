@@ -69,15 +69,15 @@ public class EventItem{
 		return vEvent.getProperty("RRULE");
 	}
 	
-	public EventItemIntervalIterator getOccurances(DateTime start) {
+	public EventItemIntervalIterator getOccurrences(DateTime start) {
 		return new EventItemIntervalIterator(this,start);
 	}
 	
-	public EventItemIntervalIterator getOccurances() {
+	public EventItemIntervalIterator getOccurrences() {
 		if(getStartDateTime())
-			return getOccurances(getStartDateTime());
+			return getOccurrences(getStartDateTime());
 		else
-			return getOccurances(DateTime.now())
+			return getOccurrences(DateTime.now())
 	}
 	
 
