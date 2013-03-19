@@ -13,11 +13,10 @@ options {
   package net.spantree.crony;
 }
 
-parse: PATTERN EOF; 
+//parse: PATTERN EOF; 
 
 PATTERN
-   : (DAYOFWEEK | DAYOFWEEK_SEQUENCE | DAYOFWEEK_LIST)?
-     ' '?
+   : ( (DAYOFWEEK_LIST | DAYOFWEEK_SEQUENCE | DAYOFWEEK) ' '*)?
      (TIME | TIME_SEQUENCE)?
    ; 
 
@@ -27,7 +26,7 @@ WHITESPACE: (' ' | '\t')+ { skip(); };
 fragment TIME_SEQUENCE:      TIME SEQUENCE_JOINER TIME;
 fragment TIME:               (NOON|MIDNIGHT|HOUR (':' MINUTE)? DAYPERIOD?); 
 
-DAYOFWEEK_LIST:       DAYOFWEEK;
+DAYOFWEEK_LIST:       (DAYOFWEEK  LIST_JOINER DAYOFWEEK_LIST) | (DAYOFWEEK LIST_JOINER DAYOFWEEK) | DAYOFWEEK;
 DAYOFWEEK_LIST_CHILD: (LIST_JOINER DAYOFWEEK)
 DAYOFWEEK_SEQUENCE:   DAYOFWEEK SEQUENCE_JOINER DAYOFWEEK;
 
@@ -49,9 +48,12 @@ fragment PM:        ('P'|'p') ' '? ('M'|'m')? '.'?;
 fragment HOUR:      ('2'..'9'|'10'|'11'|'12');
 fragment MINUTE:    ('0'..'5' INT);
 
+fragment AND: ' '* 'and' ' '*;
+
 fragment SEQUENCE_JOINER:      ('-' | 'through' | 'thru');
-fragment LIST_JOINER:          (CONJUNCTION);
-fragment CONJUNCTION:          (',' | ';') ' '*;
+fragment LIST_JOINER:          (CONJUNCTION_PHRASE);
+fragment CONJUNCTION_SYMBOL:   ( ',' | ';' );
+fragment CONJUNCTION_PHRASE:   (CONJUNCTION_SYMBOL? AND) | ( CONJUNCTION_SYMBOL ) ' '*;
 
 
 INT: '0'..'9'+;
