@@ -15,10 +15,7 @@ options {
 
 //parse: PATTERN EOF; 
 
-PATTERN
-   : ( (DAYOFWEEK_LIST | DAYOFWEEK_SEQUENCE | DAYOFWEEK) ' '*)?
-     (TIME | TIME_SEQUENCE | TIME_LIST )?
-   ; 
+
 
 
 WHITESPACE: (' ' | '\t')+ { skip(); };
@@ -38,23 +35,25 @@ fragment AM:        ('A'|'a') ' '? ('M'|'m')? '.'?;
 fragment PM:        ('P'|'p') ' '? ('M'|'m')? '.'?;
 fragment HOUR:      ('10'|'11'|'12'| ('1'..'9'));
 fragment MINUTE:    ('0'..'5' '0'..'9');
+fragment TILL:      ' '* 'till' ' '*;
 fragment DAYPERIOD: AM | PM;
 
 fragment TIME_SEQUENCE:      TIME SEQUENCE_JOINER TIME;
 fragment TIME_LIST:          TIME LIST_JOINER TIME;
 
-fragment TIME:               ( (NOON | MIDNIGHT | HOUR) (':' MINUTE)? ' '* ( DAYPERIOD )?); 
+fragment TIME:               (TILL)? ( (NOON | MIDNIGHT | HOUR) (':' MINUTE)? ' '* ( DAYPERIOD )?); 
+
+fragment AND: ' '* ('and'|'&') ' '*;
+fragment THROUGH: ' '* ('-' | 'through' | 'thru') ' '*;
+fragment SEQUENCE_JOINER:      (THROUGH | AND);
+fragment LIST_JOINER:          (CONJUNCTION_PHRASE);
+
+fragment DAYOFWEEK:          MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY | SUNDAY; 
 
 DAYOFWEEK_LIST:       (DAYOFWEEK LIST_JOINER DAYOFWEEK_LIST) | (DAYOFWEEK LIST_JOINER DAYOFWEEK);
 DAYOFWEEK_SEQUENCE:   (DAYOFWEEK SEQUENCE_JOINER DAYOFWEEK_SEQUENCE) | (DAYOFWEEK SEQUENCE_JOINER DAYOFWEEK);
 
-fragment DAYOFWEEK:          MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY | SUNDAY; 
-
-fragment AND: ' '* ('and'|'&') ' '*;
-fragment THROUGH: ' '* ('-' | 'through' | 'thru') ' '*
-fragment SEQUENCE_JOINER:      (THROUGH | AND);
-fragment LIST_JOINER:          (CONJUNCTION_PHRASE);
-
 fragment CONJUNCTION_PHRASE:   (CONJUNCTION_SYMBOL? AND) | ( CONJUNCTION_SYMBOL ) ' '*;
 
-INT: '0'..'9'+;
+
+PATTERN: ( (DAYOFWEEK_LIST | DAYOFWEEK_SEQUENCE | DAYOFWEEK) ' '*)? (TIME | TIME_SEQUENCE | TIME_LIST )?; 
